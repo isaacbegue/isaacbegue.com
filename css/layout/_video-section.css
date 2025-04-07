@@ -1,0 +1,83 @@
+section .video-loop {
+    min-height: 200px;
+    max-height: 600px;
+    margin: 0;
+    position: relative;
+    overflow: hidden;
+  }
+  section .video-loop video {
+    width: 100%;
+    -o-object-fit: fill;
+    object-fit: fill;
+    filter: opacity(0.5) hue-rotate(226deg);
+  }
+  section .buttons-over-video {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    bottom: 30%;
+    left: 10%;
+  }
+  @media (min-width: 768px) {
+    section .buttons-over-video {
+      flex-direction: row;
+      bottom: 40%;
+      left: 15%;
+    }
+  }
+  section .buttons-over-video a {
+    text-shadow: 1px 1px 2px #000;
+    border: 1px solid hsla(0, 0%, 100%, 0.2);
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+  }
+  section .buttons-over-video a:first-child {
+    margin: 0 0 5vw;
+  }
+  section .buttons-over-video a .portada4 {
+    padding: 2vw;
+    width: 15vw;
+  }
+  section .buttons-over-video a .iconos {
+    padding: 0 10px;
+    width: 40px;
+    filter: grayscale(100%);
+  }
+  section .buttons-over-video a:hover .iconos {
+    transform: scale(1.1);
+    filter: grayscale(0);
+  }
+  section .buttons-over-video a:hover {
+    transform: scale(1.2);
+    box-shadow: 2px 2px 20px hsla(0, 0%, 92.9%, 0.474);
+  }
+  section .buttons-over-video a p {
+    font-size: 3.5vw;
+  }
+  @media (min-width: 768px) {
+    section .buttons-over-video a {
+      justify-content: center;
+      align-items: center;
+      width: 25vw;
+    }
+    section .buttons-over-video a:first-child {
+      margin: 0 20vw 0 0;
+    }
+    section .buttons-over-video a .portada4 {
+      padding: 0 15px;
+      width: 8vw;
+    }
+    section .buttons-over-video a .iconos {
+      padding: 0 10px;
+      width: 4.5vw;
+    }
+    section .buttons-over-video a:hover {
+      transform: scale(1.2);
+    }
+    section .buttons-over-video a p {
+      font-size: 1.5vw;
+    }
+  }
+  

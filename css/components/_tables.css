@@ -1,0 +1,95 @@
+table {
+    color: #999;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0 auto 40px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  
+  table caption,
+  table td,
+  table th {
+    min-width: 110px;
+    padding: 1vh 2vw;
+  }
+  
+  table caption {
+    font-weight: 700;
+    background-color: #17222e;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+  
+  table th {
+    background-color: #313941;
+  }
+  
+  table th:first-child {
+    text-align: left;
+  }
+  
+  table tr:nth-child(odd) {
+    background-color: rgba(77, 94, 111, 0.371);
+  }
+  
+  table tr:nth-child(2n) {
+    background-color: rgba(77, 94, 111, 0.289);
+  }
+  
+  table tr:last-child {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  
+  table a {
+    color: #7091a7;
+  }
+  
+  table a:hover {
+    text-decoration: underline;
+  }
+  
+  @media (min-width: 768px) {
+    table:last-child {
+      margin-right: 20px;
+    }
+  }
+
+  .song-tables-container { /* O usa .dos-columnas-en-tablet-flex si no cambiaste el HTML */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    gap: 2rem 1.5rem; /* Espacio vertical y horizontal entre las tablas */
+    margin-top: 1.5rem; /* Espacio sobre el grupo de tablas */
+    align-items: start; /* Alinea las tablas al inicio si tienen alturas diferentes */
+  }
+  
+  /* Ajustes para las tablas dentro de este contenedor específico */
+  .song-tables-container table {
+    margin-bottom: 0; /* Quitar margen inferior, el gap del grid se encarga */
+    width: 100%; /* Asegurar que la tabla ocupe el espacio de su celda en el grid */
+    /* Importante: Resetear min-width si las tablas individuales lo tenían */
+    min-width: unset;
+  }
+  
+.song-tables-container .enlaces-escuchar {
+  /* Asegurar que los iconos se alineen bien dentro de la celda */
+  /* display: flex; ya debería estar aplicado globalmente a .enlaces-escuchar */
+  justify-content: flex-start; /* Alinear iconos a la izquierda de la celda */
+  flex-wrap: wrap; /* Permitir que los iconos pasen a la línea siguiente si no caben */
+  gap: 15px; /* Espacio entre iconos si van a la siguiente línea */
+}
+
+.song-tables-container .enlaces-escuchar img {
+    margin: 0; /* Resetear márgenes individuales */
+    max-width: 25px; /* Iconos un poco más pequeños en la tabla */
+    margin-right: 8px; /* Ajusta este valor (ej: 5px, 10px) según prefieras */
+}
+
+/* --- (Opcional) Quitar margen al último icono de la fila si es necesario --- */
+/* Esto evita un margen extra al final si la alineación es a la izquierda */
+.song-tables-container .enlaces-escuchar a:last-child img {
+    margin-right: 0;
+}

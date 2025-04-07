@@ -1,0 +1,16 @@
+/* Importar estilos base */
+@import "base/_base.css";
+@import "base/_utilities.css";
+
+/* Importar estilos de layout */
+@import "layout/_layout.css";
+@import "layout/_video-section.css";
+
+/* Importar estilos de componentes */
+@import "components/_buttons.css";
+@import "components/_embeds.css";
+@import "components/_footer.css";
+@import "components/_header.css";
+@import "components/_media-content.css";
+@import "components/_posts.css";
+@import "components/_tables.css";

@@ -1,0 +1,23 @@
+body,
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  display: table;
+}
+footer {
+  display: table-row;
+}
+footer div {
+  margin: 10px auto;
+}
+@media (min-width: 768px) {
+  .dos-columnas-en-tablet {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .dos-columnas-en-tablet-flex {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+}

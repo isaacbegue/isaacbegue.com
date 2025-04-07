@@ -1,0 +1,115 @@
+.enlaces-videos-youtube .iframe-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .enlaces-videos-youtube .iframe-container p {
+    text-align: center;
+  }
+  .enlaces-videos-youtube .iframe-container iframe {
+    padding: 5px;
+    max-width: 80vw;
+    max-height: 25vh;
+  }
+  @media (min-width: 768px) {
+    .enlaces-videos-youtube {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .enlaces-videos-youtube .iframe-container {
+      justify-content: center;
+      width: 50%;
+      padding-right: 20px;
+      margin: 0;
+    }
+    .enlaces-videos-youtube .iframe-container iframe {
+      max-width: 25vw;
+      max-height: 25vh;
+    }
+  }
+  .enlaces-videos-youtube-little .iframe-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .enlaces-videos-youtube-little .iframe-container p {
+    text-align: center;
+  }
+  .enlaces-videos-youtube-little .iframe-container iframe {
+    padding: 5px;
+    max-width: 40vw;
+    max-height: 15vh;
+  }
+  @media (min-width: 768px) {
+    .enlaces-videos-youtube-little {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+    .enlaces-videos-youtube-little .iframe-container {
+      justify-content: center;
+      width: 50%;
+      padding-right: 20px;
+      margin: 0;
+    }
+    .enlaces-videos-youtube-little iframe {
+      max-width: 20vw;
+      max-height: 15vh;
+    }
+  }
+  
+.youtube-group,
+.audio-group,
+.enlaces-videos-youtube-little, /* Aplicar también a este contenedor */
+.enlaces-videos-youtube /* Y a este */ {
+  display: grid;
+  /* Crea columnas automáticas:
+     - Mínimo: 280px (o el ancho mínimo que quieras para un item)
+     - Máximo: 1fr (que ocupen el espacio disponible equitativamente)
+     Esto hará que se pongan 2 columnas si hay espacio, o 1 si no lo hay.
+  */
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem 1rem; /* Espacio vertical y horizontal entre elementos */
+  margin-top: 1rem; /* Espacio arriba del grupo de media */
+  margin-bottom: 1rem; /* Espacio debajo del grupo */
+  align-items: start; /* Alinea los items al inicio de su celda (útil si tienen alturas diferentes) */
+}
+
+/* Estilos para cada item individual (video o audio) dentro del grid */
+.iframe-container,
+.audio-container {
+  width: 100%; /* Ocupar el ancho completo de la celda del grid */
+  display: flex;
+  flex-direction: column; /* Título arriba, media abajo */
+  align-items: center; /* Centrar el contenido (iframe/audio) horizontalmente */
+  text-align: center; /* Centrar el texto del título (p) */
+}
+
+.iframe-container p,
+.audio-container p {
+  margin-bottom: 0.5rem; /* Espacio entre el título y el reproductor */
+  font-size: 0.9em;
+  color: #bbb;
+  width: 100%; /* Asegurar que el título ocupe el ancho para centrarse bien */
+}
+
+.iframe-container iframe {
+  width: 100%; /* El iframe ocupa todo el ancho del contenedor */
+  max-width: 100%; /* Asegura que no se desborde */
+  aspect-ratio: 16 / 9; /* Mantiene la proporción del video */
+  height: auto; /* La altura se ajusta automáticamente */
+  border: 1px solid #333; /* Borde sutil opcional */
+}
+
+.audio-container audio {
+  width: 100%; /* El reproductor ocupa todo el ancho */
+  max-width: 350px; /* Limita el ancho máximo para que no sea enorme en pantallas anchas */
+  display: block; /* Asegura que ocupe su propia línea */
+  margin: 0 auto; /* Centrar si max-width es menor que el contenedor */
+}

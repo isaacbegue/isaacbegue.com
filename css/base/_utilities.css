@@ -1,0 +1,22 @@
+.contenedor {
+  width: 85%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.centrado {
+  text-align: center;
+}
+.alinear-derecha {
+  text-align: right;
+}
+.alinear-izquierda {
+  text-align: left;
+}
+.ocultar-en-mayor-768px {
+  display: block;
+}
+@media (min-width: 768px) {
+  .ocultar-en-mayor-768px {
+    display: none;
+  }
+}

@@ -1,0 +1,153 @@
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=Roboto:wght@300;400;500;700&family=Teko:wght@400;500&display=swap");
+
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+html:focus {
+  outline: none;
+}
+html::-webkit-scrollbar {
+  width: 8px;
+}
+html::-webkit-scrollbar-track {
+  background: rgba(66, 71, 77, 0.09);
+}
+html::-webkit-scrollbar-thumb {
+  background-color: rgba(70, 99, 126, 0.556);
+  border-radius: 20px;
+  border: 3px solid rgba(66, 71, 77, 0.09);
+}
+*,
+:after,
+:before {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  font-family: Roboto, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.8;
+  background-color: #03070a;
+}
+main {
+  display: block;
+}
+h1 {
+  font-size: 3.8rem;
+  margin: 2.5 0;
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  text-align: center;
+  color: #999;
+}
+h2 {
+  font-size: 3.4rem;
+  margin: 2.5 0;
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  text-align: center;
+  color: #999;
+}
+h3 {
+  font-size: 3rem;
+  margin: 2.5 0;
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  text-align: center;
+  color: #999;
+}
+h4 {
+  font-size: 2.6rem;
+}
+hr {
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+  border: 1px solid hsla(0, 0%, 78.4%, 0.6);
+}
+pre {
+  font-family: monospace, monospace;
+  font-size: 1em;
+  color: #999;
+  overflow: overlay;
+}
+pre::-webkit-scrollbar {
+  width: 8px;
+}
+pre::-webkit-scrollbar-track {
+  background: rgba(66, 71, 77, 0.09);
+}
+pre::-webkit-scrollbar-thumb {
+  background-color: rgba(70, 99, 126, 0.556);
+  border-radius: 20px;
+  border: 3px solid rgba(66, 71, 77, 0.09);
+}
+a {
+  background-color: transparent;
+  text-decoration: none;
+  color: #2a78cb;
+}
+a:hover {
+  color: #639fdf;
+}
+abbr[title] {
+  border-bottom: none;
+  text-decoration: underline;
+  -webkit-text-decoration: underline dotted;
+  text-decoration: underline dotted;
+}
+b,
+strong {
+  font-weight: bolder;
+}
+code,
+kbd,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+small {
+  font-size: 80%;
+}
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sub {
+  bottom: -0.25em;
+}
+sup {
+  top: -0.5em;
+}
+img {
+  border-style: none;
+  width: 100%;
+  display: block;
+}
+picture {
+  width: 100%;
+  display: block;
+}
+ul {
+  padding-left: 0;
+}
+li {
+  list-style: none;
+}
+p {
+  color: #999;
+  text-align: justify;
+  font-size: 1.4rem;
+}
+@media (min-width: 768px) {
+  p {
+    font-size: 1.8rem;
+  }
+}

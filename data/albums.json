@@ -1,0 +1,944 @@
+[
+  {
+    "id": "node-ep-demos2020-1",
+    "title": "Demos 2020",
+    "data": {
+      "original_id": "demos2020",
+      "original_title": "Demos 2020",
+      "year": 2020,
+      "cover": "assets/img/portadas/demos2020.jpg",
+      "spotify_url": "https://open.spotify.com/album/6DuGVjTu13dK2X8kE6E5AQ?si=B_P8RvZWTb2WmvQgc974-w",
+      "youtubemusic_url": "https://music.youtube.com/playlist?list=OLAK5uy_lw-vhWjV3afwLANR1SvANNcW2skbpSO0c&feature=share",
+      "description": "Este EP fue el primero que subí a las plataformas digitales. Vi un video en YouTube de cómo hacerlo y el precio me pareció adecuado. El intermediario con el que yo ahorita tengo mis canciones es DistroKid. El EP contiene las canciones que tenía más pulidas hasta el momento. Los temas centrales de las canciones son de caracter filosófico.\n\nUna de las pautas en la grabación de las canciones del EP es el de ajustar o componer las canciones con la idea de que puedan ser tocadas por un power trío de batería, bajo y guitarra. Esta pauta vino de la idea de que sería más fácil conseguir a un bajista y un baterísta que me acompañara en los eventos en vivo que conseguir más músicos. De hecho casi siempre esa es una de mis pautas al componer música, el ser realista con los recursos y no sobreproducirme. Ahora que he decidido presentarme sólo yo en los eventos en vivo, trato de componer con la sólo con la base de una caja de ritmos y todo lo demas tocarlo yo con ayuda de loopers. Esta otra pauta viene de la dificultad que implica el tener que conseguir músicos de acompañamiento, el gestionar ensayos y quedar con gente que hay que estar acarreando es una de las razones por las que decidí hacerme solista. Ahora si se me llega a presentar un evento ya tengo en mente que tocaré con secuencias con la batería y el bajo, y ya si uno de mis amigos músicos está disponible y me puede acompañar, pues qué mejor.\n\n<a target=\"_blank\" href=\"https://twitter.com/audiocreativa\">César Díaz</a> me ayudó a detallar varias de las canciones de este EP. La portada del álbum me la tomó Luar Cipriano, novio en aquél tiempo de una amiga mía, en una sesión de fotos para el proyecto.",
+      "details_hash": "#musica/demos2020"
+    },
+    "children": [
+      {
+        "id": "node-song-fluye-1",
+        "title": "Fluye",
+        "data": {
+          "original_id": "fluye",
+          "original_title": "Fluye",
+          "spotify_url": "https://open.spotify.com/track/0ueyGnG0Ld8JTr4oLXubH7?si=7241c38497324dc6",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=PsoYeyZQEL4&feature=share",
+          "lyrics": "Un nuevo sentimiento\nse encuentra ante mí,\npero no lo comprendo,\nno importa, es para mí.\nEs un nuevo día,\nmira el nuevo día.\n\nDespierta y ven conmigo\nvayamos a sentir,\nhacer que cosas pasen,\nhacer que sean así.\nMira el nuevo día.\n\nY las palabras \nque ayer callaban\nlas verás fluir en ti, \nahora en mí,\nen ti, ahora en mí, \nfluyendo.\nAl ver las llamas \nque hay en el alba\ntodo arderá y se fundirá,\ntodo uno será fluyendo.\n\nFluyendo.",
+          "commentary": "Esta canción comenzó con el riff. Cuando iba a la Facultad de Filosofía y Letras tocaba en los camiones de camino a la facultad, así me ahorraba el pasaje y ganaba un poco de dinero. En uno de esos momentos en lo que esperaba el siguiente camión me puse a improvisar con la guitarra y salió ese riff. El riff se me figuraba mucho al estilo Oasis —que es una de mis bandas favoritas— así que quise sacar una canción de este riff, grabé con el celular la idea y la dejé para cuando me llegara la inspiración.\n\nEn una primer versión de la canción la letra era muy abstracta y no me terminaba de convencer. En un momento de inspiración me llegó la idea de hacer la canción menos cargada y más emocional, a la Oasis en su primer álbum. Tomé algunas palabras clave de las canciones del Definitely Maybe y traté de emular a Oasis. Definitivamente me gustó más el resultado. La letra habla sobre ser proactivo, de tener ganas de ser y de hacer.\n\nLa versión final de la canción se logró cuando estuve trabajando junto a mi amigo <a target=\"_blank\" href=\"https://twitter.com/audiocreativa\">César Díaz</a>, quien fue mi manager por un tiempo y me estuvo acompañando a tocadas y ayudándome con arreglos en varias canciones. Con la que más me ayudó fue con esta canción, sugiriendo cambiar el ritmo de la batería por algo más sencillo, ya que en primeras versiones la batería iba con un doble golpe de tarola. La idea era imaginar que quien tocaba la batería era alguien como Ringo Starr, tocando justo lo que la canción necesita, sin ningún elemento de sobra. Así que con esa grandiosa idea me puse a grabar la batería tratando de transmitir ese feeling a la Ringo Starr. Seguido de la batería, nos pusimos a trabajar en el solo de guitarra. El cual la primera parte se repetía, él sugirió que no se repitiera y que hiciera una variación. Estuve improvisando hasta que llegamos con la forma actual del solo y nos satisfizo el resultado.",
+          "details_hash": "#musica/demos2020/fluye"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-entiendeme-1",
+        "title": "Entiéndeme",
+        "data": {
+          "original_id": "entiendeme",
+          "original_title": "Entiéndeme",
+          "spotify_url": "https://open.spotify.com/track/5AL72R78IZcucmEEwYp6II?si=6d51cb7398e64e28",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=lXlocjRMYS4&feature=share",
+          "lyrics": "Sólo espero que lo puedas entender\npues a veces no encuentro solución,\ny es que se me dificulta ver\ncuando suelo ser muy observador.\n\n\nHay veces que no tengo otra salida\nmas que divagar en la aporía\ncon la opinión que \nno tiene escrutinio,\npero alguna base \nes lo que necesito.\n\nQuizás lo pueda creer \npero no lo sostendré\ny me pregunto \nsi la pena ha de valer\nConfusiones me agotan \ny en verdad no sé.\nLa especulación está \nfuera de control,\nla necesidad de actuar \nno permite comprobar,\nla arbitrariedad ocupa su lugar\nporque rebasar lo humano \nno está en nuestro poder.\n\nHay veces que no tengo otra salida\nmas que divagar en la aporía\ncon la opinión que \nno tiene escrutinio,\npero alguna base \nes lo que necesito.\n\n\nHay veces que no encuentro \notra salida\nMas que divagar en la aporía\nCon la opinión que \nno tiene escrutinio,\nPero alguna base \nes lo que necesito.",
+          "commentary": "Esta canción habla sobre el ejercicio de la reflexión, acerca de lo intrincado y complejo que es organizar y depurar las ideas en la mente. Muchas veces nos encontraremos divagando en la aporía, lidiando con la contradicción al darnos cuenta de cómo algunas de nuestras ideas o creencias fundamentales se contradicen. Acerca de cómo el mundo nos llama a actuar aún cuando no tengamos tiempo de analizar lo que creemos, así que entra la arbitrariedad y damos muchas cosas por hecho sin tener en cuenta un escritinio a esas ideas, de poner en duda nuestras creencias. Pero volvemos con el tiempo, cosa rara que parece nunca ser suficiente, necesitamos actuar y para justificarnos necesitamos alguna base, el problema es que no tenemos tiempo de analizar todas nuestras bases, todos nuestros principios. De eso habla esta canción.\n\n<a target=\"_blank\" href=\"https://twitter.com/audiocreativa\">César Díaz</a>, amigo mío que es ingeniero en audio y con quien estuve trabajando, me ayudó con la batería de la canción. Me dio bastantes ideas para los remates y detalles que enriquecieron bastante la composición de la batería.\n\nOriginalmente esta canción la había compuesto para una novia que tuve cuando estaba en la Prepa. La letra base es muy similar, sólo que en la primer versión la canción hablaba de cómo quería que la relación mejorara. Al final esta canción y una segunda que le compuse, llamada Mi Luna, nunca las pudo escuchar porque terminamos antes de que se presentara la oportunidad de enseñárselas y yo estaba muy enojado y sentido en aquel entonces, y después de un tiempo ya no tuvo sentido compartírselas. Sin embargo, como me gustaba mucho el ritmo de Entiéndeme unos años después decidí retomar la base de la canción para reestructurarla y cambiarle la letra por un tema que me llamara más la atención.",
+          "details_hash": "#musica/demos2020/entiendeme"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-asi-debo-continuar-1",
+        "title": "Así debo continuar",
+        "data": {
+          "original_id": "asi_debo_continuar",
+          "original_title": "Así debo continuar",
+          "spotify_url": "https://open.spotify.com/track/4COZuuFuE34UaRKcXEHB5j?si=89ae9cf6588843be",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=cJ_kLSGAlIM&feature=share",
+          "lyrics": "Tan atrapado dentro del recuerdo\nde lo que fuiste en aquellos tiempos\n¿Qué es este sentimiento en mí\nel cual no me deja seguir?\nTan sólo no quiero dejarte ir.\n\nLágrimas cayendo están\npero debo continuar.\nTodos vamos para allá,\nes un curso natural.\nSólo quiero encontrar\nesa forma para hablar.\nPero ahora ya no estás,\nasí debo continuar.\n\n¿Cómo repetir los momentos que pasé junto a ti?\n¿Cómo regresar al pasado,\ndeteniendo el tiempo al disfrutar?\nTal vez somos eternos, eso\npodría ser un buen consuelo, volverte a ver.\n\nLágrimas cayendo están\npero debo continuar.\nTodos vamos para allá,\nes un curso natural.\nSólo quiero encontrar\nesa forma para hablar.\nPero ahora ya no estás,\nasí debo continuar.",
+          "commentary": "Esta canción la compuse junto a mi amigo <a target=\"_blank\" href=\"https://www.linkedin.com/in/jes%C3%BAs-eduardo-l%C3%B3pez-escalona/\">Eduardo López Escalona</a>. El riff del comienzo, junto como el cambio de tempo y la idea del llanto en el coro los compuso él. Originalmente toda la base de la canción con su letra estuvo compuesta por Lalo y ésta se llamaba Confusión —ahí en el respaldo tengo la versión original— y yo le ayudé a grabarla y a tocar la batería, él la cantó, tocó las guitarras y el bajo. Por alguna u otra razón no continuamos trabajando en la canción. Un día retomé la idea de Lalo y la reestructuré combinándola con un arreglo que tenía por ahí que usé para el coro y con un solo al final. Le cambié la letra con una tonada parecida a la original, pero no me convencía, así que luego la volví a cambiar con otra melodía. A Lalo también le gustó esta nueva versión y de hecho la tocábamos cuando estabamos con la banda Capital Orbeats. Esta última versión que viene en el EP ya es una versión adaptada para tocarse con batería, bajo, guitarra y una voz, acorde a las pautas que me propuse al grabar las canciones para este EP.\n\nLa canción habla sobre la pérdida de un ser querido, creo que la letra en sí misma es bastante descriptiva y no necesita mayor explicación.\n\nAcá <a target=\"_blank\" href=\"https://twitter.com/audiocreativa\">César Díaz</a> también me ayudó con la batería, pero esta vez en el tipo de batería. Él sugirió que la voz de la batería sonara menos moderna, como con un estilo Glam Rock, y que también tuviese una intención de sonar aunque sea un poco a bandas como Joy Division o The Cure.",
+          "details_hash": "#musica/demos2020/asi_debo_continuar"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-condicion-humana-1",
+        "title": "Condición humana",
+        "data": {
+          "original_id": "condicion_humana",
+          "original_title": "Condición humana",
+          "spotify_url": "https://open.spotify.com/track/3RrniCTnlJUJLdUTHMUYWx?si=67bb9ff17a7e40ba",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=RPnVltgZrHk&feature=share",
+          "lyrics": "Apuesto a que no esperabas verlo así,\npero quizá no es demasiado tarde.\nTe has dado cuenta que lo que creías creer \nprobablemente no es verdad.\n\nLo entiendo, eso puede doler,\nes parte de crecer.\nLa condición humana del saber\ny de su proceder.\n\nPero es parte del progreso\ny no puedes no actuar,\npues es un menester la causalidad.\nY cuando la contradicción se manifieste\nserá momento de cambiar.\n\nEspero lo puedas entender\npues es reconocer\nque cuando algo ya no encaja más\nse debe renovar,\n\nque uno se debe adaptar\no desaparecer,\nque el cambio no se puede evitar\nmejor es tomarlo a bien.\n\nPero al final lo dicho ya\nhabrá que examinar, también\npues las afirmaciones suelen errar y quizás \nno hay absolutos.",
+          "commentary": "Esta canción refleja mucho mi postura filosófica de que hay que ser humildes al compartir el conocimiento, una postura muy socrática, a mi parecer. A no dejarse llevar por la idea de que ya sabemos todo o mucho de la realidad, cuando probablemente sepamos menos de lo que podemos llegar a creer. Me refiero a que la ciencia es lo mejor que tenemos para tratar \"conocer\" la realidad, y es lo mejor que tenemos porque la ciencia no teme, o no debería temer, en contradecir algo que dijo suponía anteriormente.\n\nHoy tenemos teorías con un poder explicatívo muy alto, pero es a todo lo que podemos llegar. No por el hecho de tener una teoría que explique muy bien un fenómeno implica que la realidad funcione como la teoría lo dice. A lo que quiero llegar es que no debemos dejar de cuestionar, no debemos dejar que las teorías sean tomadas como verdades absolutas porque eso nos hace arrogantes. Es bastante probable que en el futuro las teorías actuales suenen ridículas comparadas con las futuras. Hay que ser humildes en distinguir lo que conocemos de lo que no conocemos y sólo creemos o suponemos por su alto poder explicativo. Es nuestra condición humana la que no nos permite conocer la realidad en sí misma y mientras ese problema siga vigente, no tenemos por qué vanagloriarnos creyéndonos personas más inteligentes que nuestros antepasados, cuando todo lo que tenmos ahorita, para bien o para mal, es gracias a ellos.\n\nMe gusta cómo termina la canción porque es una autoreferencia de que incluso lo que estoy diciendo debe ser examinado.\n\nAl grabar esta canción tuve una pérdida de los archivos originales y sólo me quedó la mezcla ya hecha, afortunadamente la canción mezclada satisfizo mi gusto en calidad, no sentí necesario regrabar todo.",
+          "details_hash": "#musica/demos2020/condicion_humana"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-no-puedo-saber-1",
+        "title": "No puedo saber, sólo creer",
+        "data": {
+          "original_id": "no_puedo_saber",
+          "original_title": "No puedo saber, sólo creer",
+          "spotify_url": "https://open.spotify.com/track/6FhpBfd8rvRuw5xL2HqiyX?si=0aaa1afeb2a44814",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=NKZr-uWR4GE&feature=share",
+          "lyrics": "¿Ya te sientes mejor \ndonde estás?\n¿Cómo puedo saber lo que no se ve\nal mirar?\nSólo puedo encerrarme en mi mente,\nno puedo creer lo que se ve.\nEstoy tratando de encontrar justificación\npero me doy cuenta que no la hay.\n\nPero me rehúso a aceptar\nque no estás.\nSi realmente hay algo en ti,\ncomo en mí lo hay.\n\n¿Preocuparme acaso servirá,\nsi es algo que no puedo cambiar?\nQuizá nunca lo llegue a saber,\nquizá nadie lo pueda resolver.\nSigo buscando justificación\nPero me doy cuenta que no la hay.\n\nPero me rehúso a aceptar\nque no estás.\nSi realmente hay algo en ti,\ncomo en mí lo hay.\n\nNo puedo saber lo que tú ves,\nno puedo saber cómo sientes,\nno puedo saber, sólo creer.\n\nNo puedo saber lo que tú ves,\nno puedo saber cómo sientes,\nno puedo saber, sólo creer.",
+          "commentary": "Esta canción la compuse cuando estudiaba en la Facultad de Filosofía y Letras de la UNAM, en el primer semestre de Filosofía me encontraba estudiando el problema de otras mentes, un problema espistemológico que afirma que no es posible comprobar la existencia de otras mentes además de la de uno mismo. Esta afirmación nos deja en una posición filosófica llamada solipsismo. El caso es que esta canción habla sobre cómo este pensamiento puede llegar a ser tan abrumador: darse cuenta de que, de hecho, no puedes refutar que las personas con las que convives no son más que autómatas, seres sin mente que sólo están ahí para aparentar que son personas. Sin embargo, esa afirmación sólo es una posibilidad y creer que eso es verdad es arbitrario y está injustificado, ya que tampoco puedes comprobar que las personas con las que convives sean de hecho autómatas. Es esta incertidumbre de lo que habla esta canción, de esa mera posibilidad y el agobio que puede llegar a causar.\n\nCompuse la canción empezando por la batería. En la mente tenía el ritmo, me sonaba como si fuera un compás raro, pero no lo era tanto, en el proyecto de grabación el compás de los versos está en 2/4. Sobre ese ritmo de batería fue que compuse el riff de la guitarra. La idea del bajo pausado la saqué del bajo de la canción Airbag de Radiohead y la idea de los \"ah\"s del final la saqué de la canción Nos vamos juntos de Caifanes.",
+          "details_hash": "#musica/demos2020/no_puedo_saber"
+        },
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "node-ep-4-1",
+    "title": "4",
+    "data": {
+      "original_id": "4",
+      "original_title": "4",
+      "year": 2020,
+      "cover": "assets/img/portadas/4.jpg",
+      "spotify_url": "https://open.spotify.com/album/0vj3NW5SsazgUzgtpCJDgF?si=kblL6M5jR2Snc0Q_b50AZQ",
+      "youtubemusic_url": "https://music.youtube.com/playlist?list=OLAK5uy_kFmpz84T9eUjDTl1Pk2WRU2Onku7u_tR8&feature=share",
+      "description": "Este EP lo armé con las composiciones más recientes que tenía en el 2020. Me enfoqué en el minimalismo, con la idea de que sería yo solo acompañado de una caja de ritmos y loopers. La portada la dibujé sobre una hoja de una libreta que nos regalaron en la Facultad de Filosofía y Letras allá por el 2014, una página tenía un \"4\", y un día estaba aburrido comencé a colorear de negro con la pluma alrededor de éste; no sé por qué pero considero al 4 mi número favorito. Esos rayones estuvieron ahí hasta que se me ocurrió la idea de usarlos como portada para el EP, ya que justamente son 4 canciones las que tenía preparadas en ese entonces.\n\nMi influencia principal al componer estas canciones fue Radiohead y también Thom Yorke de solista.",
+      "details_hash": "#musica/4"
+    },
+    "children": [
+      {
+        "id": "node-song-como-debe-de-ser-1",
+        "title": "Como debe de ser",
+        "data": {
+          "original_id": "como_debe_de_ser",
+          "original_title": "Como debe de ser",
+          "spotify_url": "https://open.spotify.com/track/5jauQ1CaFfpP6dtv4HVIJ8?si=1182823a30174b66",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=jlxyqJqP38g&feature=share",
+          "lyrics": "¿Así es como debe de ser?,\n¡oh! no quiero saber\nde lo que ya no está en mí.\nMuy cruel, ¡hey! ¡au! así es,\n¿podrá cambiar?\n\nOtro día de utópico ideal\n¿cuándo llegará?\n¿cuánto tardará?\n\n¿Así es como debe de ser?,\n¡oh! no quiero saber\nde lo que ya no está en mí.\n\n\n\nOtro día de utópico ideal\n¿cuándo ocurrirá?\n¿cuánto tardará?\n\n¿Así es como debe de ser?,\n¡oh! no quiero saber\nde lo que ya no está en mí.",
+          "commentary": "El 'riff' principal de esta canción surgió cuando estaba jameando sobre ese mismo ritmo de batería que tiene la canción. Sobre el riff comencé a improvisar arreglos en guitarra y luego canté una melodía balbuceando cosas, como suelo hacerlo. En este caso la melodía y la interpretación que daba al balbucear me transmitía una sensación de resignación, de cansancio, de hastío. Entonces traté de transmitir lo mismo al componer la letra.\n\nEsta letra habla sobre ponerse en una posición estoica respecto de las cosas que no dependen de nosotros. Una clase de aceptación, con tintes utilitarios, de la vida actual. Si bien es importante la reflexión y tener una brújula de cómo nos gustaría que fuese el mundo, también debemos ser conscientes de que las utopías sólo son castillos en el aire y el querer aplicar utopías en 'la vida real', sin importar los medios o los matices, la más de las veces conlleva consecuencias llenas de horror, sobre todo cuando se tiene el poder para intentar llevarlas a cabo.\n\nLos problemas del mundo nunca se acabarán —a menos que nos extingamos, entonces ya no habría nadie quien se preocupase de las cuestiones humanas, ¿o sí?, no lo sé—, hay que aprender a vivir con ello. Esta canción habla sobre buscar la paz, aceptar que como individuos aislados nunca podremos solucionar los grandes problemas del mundo, y no tenemos porqué poner esa carga sólo sobre nuestros hombros. Sin embargo sí hay cosas que podemos cambiar y que dependen de nosotros y es ahí donde debemos poner 'nuestro grano de arena', donde deberíamos enfocar nuestros esfuerzos individuales.",
+          "details_hash": "#musica/4/como_debe_de_ser"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-caida-libre-1",
+        "title": "Caída libre",
+        "data": {
+          "original_id": "caida_libre",
+          "original_title": "Caída libre",
+          "spotify_url": "https://open.spotify.com/track/6rTR3D1AYFI11poGLkpREe?si=d1aa3c0febe244bf",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=l9SIA52QeFE&feature=share",
+          "lyrics": "Ver todo tu esfuerzo no valer, \nni florecer. \nOtra vez \nque no hallas qué hacer.\nMientras tanto todo\nparece no avanzar\nno está mal,\nno está mal fracasar.\n\nCaída libre, \n¿Qué esperabas encontrar?\nEntre estos laberintos\nun camino llegará...\nLargos trayectos recorrer\n¡uh!\ny tener miedo a perder.\nLa la la...\n\nCaída libre, \n¿qué esperabas encontrar?\nNo es que el juego te odie,\n¡sólo apréndelo a jugar!\n\nY lo encuentro\nmuy bien,\nlo empiezo a entender.\n\nHoy desperté, \nlo puedo ver, \nya desperté.\n\nCaída libre,\n¿dónde está tu libertad?\n¿Dominas lo que es tuyo\no te dejas dominar?, \n¡no más!",
+          "commentary": "Caída Libre surgió con el ritmo de batería y un riff que empecé a tocar encima de éste. El riff me gustó bastante, me sonaba como a Los Kinks y también un poco a Nirvana. Sobre esta base comencé a balbucear una melodía. La canción me transmitía energía con un poco de ironía. Decidí seguir esas  ideas para componer la letra.\n\nLa letra habla sobre la perseverancia, y eso es prácticamente todo de lo que habla. Cuando la escucho o la canto me gusta pensar en Dark Souls III, es un videojuego que llevo ya varios días jugando ahorita en diciembre 2021. De hecho creo que la letra encaja muy bien con la filosofía del juego: \"No dejes de intentarlo\", se pueden sacar unas reflexiones muy inspiradoras de este juego y me gusta creer que me ha ayudado a poner a prueba mi persistencia, que siento que ha sido una de mis debilidades en algunas áreas de mi vida.\n\nTrato de recordarme esta canción cuando siento que lo que hago no está valiendo la pena, para ayudarme a combatir ese sentimiento de derrota. Y por supuesto, de la mano viene también a la mente Dark Souls III.",
+          "details_hash": "#musica/4/caida_libre"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cuarentena-1",
+        "title": "Cuarentena",
+        "data": {
+          "original_id": "cuarentena",
+          "original_title": "Cuarentena",
+          "spotify_url": "https://open.spotify.com/track/4CfUPiwZiIHWLFXmPDb8ED?si=9dbc03c5c9714c58",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=Fe10dbj8pjQ&feature=share",
+          "lyrics": "Mientras te miraba,\nmientras me ahogué,\nmientras tú decías\n\"todo estará bien\". \n\nCuando te internaron luego\n¿qué sucederá?\nYa no será igual,\nsomos recuerdos,\nsomos recuerdos,\nsomos recuerdos\ny nada puedo hacer,\ndeja al tiempo correr.\n\nFrente a mis ojos pasó \nuna y otra vez,\ny aún no sabemos \ncuándo acabará\nni a cuántos más se llevará.\n\n\nMientras esperaba,\nentre tantos más,\nel día funesto\no el final de la prisión.",
+          "commentary": "En febrero del 2020 me encontraba leyendo el libro de La Peste de Albert Camus. El libro me transmitió muchas emociones acerca de cómo se vive una pandemia. Curiosamente en ese entonces todavía no tenía idea de que en apenas un mes viviría una pademia yo mismo —aunque afortunadamente no viví una tan horrorosa como la del libro o como la que vivieron muchas personas que sí perdieron familiares a causa del COVID-19—. Compuse la canción cuando terminé el libro, quería transmitir esa desesperación, esa incertidumbre al estar encerrado y desinformado, viendo de pronto cómo las personas entran en el hospital y no se vuelve a saber de ellas o escuchando que un vecino ya se contagió y murió. Y al final una resignación sobre lo que queda, la posibilidad de que a uno también le toque partir o la esperanza de sobrevivir y tratar de retomar la vida cuando la pandemia termine.\n\nRespecto a la música, usé la misma técnica que estuve usando en todo este álbum. Tenía en mi caja de ritmos uno que me llamó la atención y quería usarlo en una canción. Comencé a desplegar ideas con la guitarra y balbuceé melodías hasta que me convencieron al estar acorde a lo que quería transmitir. La letra, como ya dije, fue inspirada en La Peste de Albert Camus.\n\n<small>*No sé si en todos los países hispanohablantes 'internar' tenga la misma connotación, al menos en México se usa 'internar' cuando alguien ingresa al hospital para ser tratado. De cualquier forma, a eso se refiere ese verso en la canción.</small>",
+          "details_hash": "#musica/4/cuarentena"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-nureddin-1",
+        "title": "Nureddin",
+        "data": {
+          "original_id": "nureddin",
+          "original_title": "Nureddin",
+          "spotify_url": "https://open.spotify.com/track/0vwlfwBewxjjyFLvBeP1kw?si=c2debc0ddd9f4c20",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=OSJfFMg3Dsg&feature=share",
+          "lyrics": "Se habló,\nno funcionó.\nDebo irme,\nse acabó, \noh se acabó.\n\n¿Por qué devuelves mal por bien?\nSabe que agua estancada\nse echa a perder,\ndéjala correr,\ndéjala correr.\n\nPromesas y\nmalentendidos,\nmas desconocemos\nel destino deparado,\noh, oh, oh.\n\nY aunque yo no pueda ver,\nno pueda ver\nsu realización,\ntú disfrútalo, hermano.",
+          "commentary": "En \"El libro de las mil noches y una noche\" se encuentra un relato contado por Scherezada llamado \"Historia del visir Nureddin, de su hermano el visir Chamseddin y de Hassán Badreddin\" —sí, así de largo es el título—, sobre esa historia trata esta canción. Es una de las historias que más me ha gustado dentro de lo que he leído de \"El libro de las mil noches y una noche\", lo he leído cuando tengo ratos libres, es una meta personal terminar los 23 tomos, es otra área en la que pongo a prueba mi perseverancia, hay muchas historias muy buenas dentro de este librote— así que esa fue mi inspiración para el tema que le daría a la canción que sólo le faltaba letra.\n\nLa canción comenzó con la base de la batería, es un ritmo que me gustó mucho en la caja de ritmos de mi pedalera. Para hacer los arreglos de la guitarra me inspiré mucho en la forma en la que toca Jonny Greenwood, el guitarrista de Radiohead, me parece un gran referente musical.",
+          "details_hash": "#musica/4/nureddin"
+        },
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "node-ep-ep3-1",
+    "title": "EP # 3",
+    "data": {
+      "original_id": "ep3",
+      "original_title": "EP # 3",
+      "year": 2022,
+      "cover": "assets/img/portadas/ep3.jpg",
+      "spotify_url": "https://open.spotify.com/album/6NrsuSIfpMiCedMEkFOfab?si=eOfcfPeFRUS2pTBBj0AWOA",
+      "youtubemusic_url": "https://music.youtube.com/playlist?list=OLAK5uy_lgprYxXE9UWJvrpAlmrkpJ37Lm8j9wOA8&feature=share",
+      "description": "El EP # 3 terminé de grabarlo en el 2022, muchas canciones ya las tenía prácticamente listas como lo eran Tu tiempo pasará, Para Marion y La Pena Capital, ya que sólo les hacía falta ecualizar y definir mejor algunos arreglos. En el caso de Ya es lunes y Sólo déjate llevar tuve que reestructurar un poco las canciones y cambiar ciertas melodías hasta que por fin quedé completamente convencido.\n\nLas canciones de este álbum siguen la pauta del power trío de batería, bajo y guitarra, con ayuda de loopers.",
+      "details_hash": "#musica/ep3"
+    },
+    "children": [
+      {
+        "id": "node-song-ya-es-lunes-1",
+        "title": "Ya es lunes",
+        "data": {
+          "original_id": "ya_es_lunes",
+          "original_title": "Ya es lunes",
+          "spotify_url": "https://open.spotify.com/track/3nbTNuFFAjTiwt5WdKn6vx?si=7838d939f37e4021",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=A-zR3JzxitQ&feature=share",
+          "lyrics": "Después de un renuevo\ncomienza el conteo,\nlucha interna.\nEmpieza la semana \ny yo aún en la cama,\n¿qué pasará?\n\n¡Hey, hey, hey, despierta ya es lunes!\n¡Hey, hey, hey, despierta ya es lunes!\n\nLa sociedad,\ntengo que llevar mi disfraz.\nBusco escalar sin importarme los demás.\nY empieza la rutina\nque me esclaviza todos los días.\nParece que no hay salida,\nmi cerebro se consume día a día.\n\n¡Hey, hey, hey, despierta ya es lunes!\n¡Hey, hey, hey, despierta ya es lunes!\n\nBusco el descanso mas no lo hay.\nBusco el placer, ¿dónde estará?\nBusco el amor mas solo estoy yo.\nBusco la paz y sólo consigo vanidad.\n¿Qué es lo que puedo hacer?,\ntodo se basa en dinero y poder,\ny lo que gane perderé.\n\n¡Hey, hey, hey, despierta ya es lunes!\n¡Hey, hey, hey, despierta ya es lunes!",
+          "commentary": "Esta canción describe una vida \"Godín\", y lo vacía que puede llegar a ser si uno sólo dedica su vida al trabajo, a la búsqueda de bienes materiales como un fin en sí mismo  y/o a la búsqueda de posicionamiento y reconocimiento social, otra vez, como fin en sí mismo. Creo que es bastante autodescriptiva.\n\nYa es lunes es también una canción de hace ya varios años, al rededor del 2011, según logro recordar. Apenas ahora, que he logrado adaptarla y estructurarla bien, es cuando por fin he quedado satisfecho con el resultado.",
+          "details_hash": "#musica/ep3/ya_es_lunes"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-la-pena-capital-1",
+        "title": "La Pena Capital",
+        "data": {
+          "original_id": "la_pena_capital",
+          "original_title": "La Pena Capital",
+          "spotify_url": "https://open.spotify.com/track/4YMjdlxnqSTktuUH1aLW8X?si=77f91332a3534735",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=13_KQZzGz8A&feature=share",
+          "lyrics": "¿Qué haces aquí?,\n¿es que no piensas huir?\nNo hay para dónde ir,\n¿No te das cuenta?\n¿Qué pasará, a quién podemos rogar\nsi los azules están con los de verde?\n\nNo puedes escapar,\nla Pena Capital\nse deja a la suerte,\nsin crimen aparente.\n\nQué fácil es el deshacerse de aquél\nque molestando al Poder\nno se detiene.\nDebe aprender a no quererse meter\ncon quien lo puede joder\nmuy fácilmente.\n\nNo puedes escapar,\nla Pena Capital\nse deja a la suerte,\nsin crimen aparente.\n\nNo puedes escapar,\nreina la impunidad,\nla madre de esta gente,\nacepta ya tu suerte.",
+          "commentary": "La Pena Capital habla sobre cómo es muy fácil abusar del poder, cuando se posee, y de la impotencia que se experimenta cuando uno no puede defenderse ante ese tipo de abusos. \"Acepta ya tu suerte\" puede interpretarse como sarcasmo, a manera de reto, para hacer lo contrario y buscar resistir junto a un movimiento, o bien, de manera literal y ocuparse sólo de lo que está en nuestro control de manera personal. ¿Qué es lo mejor? Yo no lo sé, eso lo decides tú. Por mi parte no creo que se pueda estar en una posición estática al respecto, habrá casos en los que sea necesario la resistencia, apoyando una causa o grupo, y habrá otros casos en los que lo mejor será ocuparse de lo que uno puede cambiar individualmente.\n\nEsta canción la compuse al rededor del 2014, si no mal recuerdo. Le quise dar un feeling un poco como a los Sex Pistols, con la canción de Holidays In The Sun, específicamente.",
+          "details_hash": "#musica/ep3/la_pena_capital"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-tu-tiempo-pasara-1",
+        "title": "Tu tiempo pasará",
+        "data": {
+          "original_id": "tu_tiempo_pasara",
+          "original_title": "Tu tiempo pasará",
+          "spotify_url": "https://open.spotify.com/track/0wzRCDbPZst5k0KSksUQh4?si=bb85c6b408734cc9",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=fE0uZGgRjag&feature=share",
+          "lyrics": "Tiempo, deja de correr así que \naún hay tanto por hacer\ny parece que el día ya no alcanza\npara todo lo que vendrá.\n\nY no parará, \ny no parará,\ntu tiempo pasará.\n\nEsa sensación de que algo \npisa mis talones\nse acompaña de mucha confusión.\n\nAl momento de ver\nlos años que dejé\nse aturde todo mi ser.\nDespués, con este acervo\nespiritual y cultural,\nno hay lugar para pensar, \nsólo actuar y actuar.\n\n\nBien, y con tanto por hacer\nno hay tiempo que perder\nes lo que se me impulsa a creer\nno hay tiempo que perder\npues este mundo te rezagará.",
+          "commentary": "La idea de Tu tiempo pasará salió un día mientras ensayábamos en Capital Orbeats. Yo estaba tocando el bajo, repasando los efectos de la pedalera y me encontré con ese efecto con el filtro, comencé a tocar el riff y Jorge Neville me siguió en la batería. Grabamos la idea para ponerle letra después. Cuando se acabó el proyecto de Capital Orbeats decidí retomar la idea de esa canción porque me gustaba mucho.\n\nLa letra creo que es bastante autodescriptiva. De cómo se busca ir más rápido y más rápido para ser más productivo y hacer más con menos y volver a repetir el proceso de optimización ad infinitum. No habla sobre que sea algo malo en sí misma esta aceleración, sino que cómo se siente el enfrentarse a ésta aceleración. Cómo se siente vivir en un mundo donde todo el tiempo tienes que estarte actualizando y renovando porque el día que lo dejes de hacer, simplemente serás obsoleto, entonces el descanso ya no parece algo saludable, sino más bien como un estorbo, \"descansaré en mi vejez\" o se puede interpretar como un \"descansaré cuando ya no sea útil\". Y reitero, no es una crítica reduccionista de bueno o malo, el mundo tiende a eso y tiene sus razones de ser, el punto es ¿hasta dónde es necesario para el individuo seguir este juego?, estoy seguro de que la vida es mucho más que sólo nuestro trabajo y muy importante poder equilibrar y nutrir cada área de nuestras vidas.",
+          "details_hash": "#musica/ep3/tu_tiempo_pasara"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-solo-dejate-llevar-1",
+        "title": "Sólo déjate llevar",
+        "data": {
+          "original_id": "solo_dejate_llevar",
+          "original_title": "Sólo déjate llevar",
+          "spotify_url": "https://open.spotify.com/track/4oifi5wI0ZQVQtVsX4m9Dc?si=2873d20611c14724",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=AcFyWPxqDkM&feature=share",
+          "lyrics": "Y ahora, una vez más,\ntodo vuelve a comenzar,\nvuelve a quedar atrás,\ntermina por ya no estar.\nY empiezas a extrañar,\npero no te puedes quedar atrás.\nEn tu mente quedará,\ntal vez se olvidará,\ntal vez se recordará,\ntal vez nunca lo sabrás.\nNo te tienes que estancar,\nno te puedes quedar atrás.\n\nVuelvo a caer,\nvuelvo a perder,\nquisiera ser\nlo que quieres.\n\nYa no te aísles más,\nsólo déjate llevar.\nSólo déjate llevar,\nya no te aísles más.\n\nVuelvo a caer,\nvuelvo a perder,\nquisiera ser\nlo que quieres.\nVuelvo a caer,\nvuelvo a perder,\nquiero ser\nlo que quieres.\n\n\nVuelvo a caer,\nvuelvo a perder,\nquisiera ser\nlo que quieres.\nVuelvo a caer,\nvuelvo a perder,\nquiero ser\nlo que quieres.",
+          "commentary": "El rasgueo de guitarra me salió por ahí del 2011, si no mal recuerdo. En ese entonces también tenía muy arraigada de usar el ritmo de songo en la batería para alguna canción. Cuando estuve experimentando con el delay y el pitcher  de la guitarra me salió el arreglo del precoro y el segundo verso. Con esas tres ideas decidí hacer una canción, aunque no tenía todavía la idea para la letra. Por ese entonces acababa de ver la película de Trainspotting y me gustó mucho la canción de Born Slippy de Underworld que sale al final, así que tomé la idea de una melodía similar para los versos.\n\nLa letra en general habla de disfrutar el ahora, así como podemos extrañar el pasado, probablemente en el futuro también se extrañaremos los momentos que estamos viviendo ahora.",
+          "details_hash": "#musica/ep3/solo_dejate_llevar"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-para-marion-1",
+        "title": "Para Marion",
+        "data": {
+          "original_id": "para_marion",
+          "original_title": "Para Marion",
+          "spotify_url": "https://open.spotify.com/track/6IaBc61g7uzar03nz1LI0J?si=03ebb97de6104dcb",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=AbiL5v7YkC0&feature=share",
+          "lyrics": "El día en que te miré,\ncuando estabas frente a mí,\n¿quién podría decir\nque comenzaría así?\nHoy no podría describir\nlo que siento por ti,\nsólo quiero seguir\nsiempre haciéndote feliz.\n\nQuiero pedirte que no te apartes de mí,\npues contigo tengo todo lo que podría pedir.\nY simplemente tú eres con quien quiero estar,\ncon quien quiero hacer mis planes,\ncon quien siento amor real.\n\nJuntos los dos, en el amor,\nvolemos hoy hasta el cielo.\n\nQuiero pedirte que no te apartes de mí,\npues contigo tengo todo lo que podría pedir.\nY simplemente tú eres con quien quiero estar,\ncon quien quiero hacer mis planes,\ncon quien siento amor real.\n\nJuntos los dos, en el amor,\nvivamos hoy esta pasión.\n\nEl día en que te miré,\ncuando estabas frente a mí,\n¿quién podría decir\nque te amaría así?",
+          "commentary": "En febrero de 2015 compuse esta canción. La compuse en tiempo record porque le había prometido una sorpresa a mi, en ese entonces, novia del 14 de febrero, ella se adelantó y quiso adivinar que le había compuesto una canción, el problema era que no, yo tenía planeado sólo un detalle más pequeño. Sin embargo acepté el reto y le dije que sí había adivinado. Así que llegando a mi casa compuse la canción, todo fluyó muy rápido. Sin embargo no pude enseñársela hasta el día 15, pero hasta le había grabado video a la canción. La canción le gustó mucho a mi, ahora, esposa. A mí también me gustó y por eso decidí regrabarla un tono más arriba y con la pauta del power trío de guitarra, bajo y batería para tocar esta canción, aunque de todos modos en el último coro hay un tecladito para ambientar.",
+          "details_hash": "#musica/ep3/para_marion"
+        },
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "node-ep-covers-1",
+    "title": "Covers",
+    "data": {
+      "original_id": "covers",
+      "original_title": "Covers",
+      "year": "2020-2021",
+      "cover": "assets/img/portadas/covers.jpg",
+      "spotify_url": null,
+      "youtubemusic_url": null,
+      "youtube_playlist_url": "https://www.youtube.com/watch?v=6TCkc-Wexzs&list=PLO6WYGpwVQTjCmT7cF-eZ6ujwQT2ZP5IB",
+      "description": "Estos son covers de canciones que me gustan. Las adaptaciones que hice siguen la pauta de poder tocar las canciones como si se tratase de un power trío de guitarra, bajo y batería, con algunas cuantas excepciones cuando es necesario.",
+      "details_hash": "#musica/covers"
+    },
+    "children": [
+      {
+        "id": "node-song-cover-horse-with-no-name-1",
+        "title": "A Horse With No Name (America)",
+        "data": {
+          "original_id": "a_horse_with_no_name",
+          "original_title": "A Horse With No Name (America)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/6TCkc-Wexzs",
+          "lyrics": null,
+          "commentary": null,
+          "details_hash": "#musica/covers/a_horse_with_no_name"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cover-after-hours-1",
+        "title": "After Hours (The Velvet Underground)",
+        "data": {
+          "original_id": "after_hours",
+          "original_title": "After Hours (The Velvet Underground)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/4aQ-ly6g4Co",
+          "lyrics": null,
+          "commentary": null,
+          "details_hash": "#musica/covers/after_hours"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cover-airbag-1",
+        "title": "Airbag (Radiohead)",
+        "data": {
+          "original_id": "airbag",
+          "original_title": "Airbag (Radiohead)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/OzC00wPihpY",
+          "lyrics": null,
+          "commentary": null,
+          "details_hash": "#musica/covers/airbag"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cover-blackbird-1",
+        "title": "Blackbird (The Beatles)",
+        "data": {
+          "original_id": "blackbird",
+          "original_title": "Blackbird (The Beatles)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/hHB2_BZeRac",
+          "lyrics": null,
+          "commentary": null,
+          "details_hash": "#musica/covers/blackbird"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cover-cigarettes-alcohol-1",
+        "title": "Cigarettes and alcohol (Oasis)",
+        "data": {
+          "original_id": "cigarettes_and_alcohol",
+          "original_title": "Cigarettes and alcohol (Oasis)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/7Z6IzRfemGM",
+          "lyrics": null,
+          "commentary": null,
+          "details_hash": "#musica/covers/cigarettes_and_alcohol"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cover-cold-turkey-1",
+        "title": "Cold Turkey (John Lennon)",
+        "data": {
+          "original_id": "cold_turkey",
+          "original_title": "Cold Turkey (John Lennon)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/E3IEHz1VjKw",
+          "lyrics": null,
+          "commentary": null,
+          "details_hash": "#musica/covers/cold_turkey"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cover-give-up-ghost-1",
+        "title": "Give Up The Ghost (Radiohead)",
+        "data": {
+          "original_id": "give_up_the_ghost",
+          "original_title": "Give Up The Ghost (Radiohead)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/td1IYTkw6S0",
+          "lyrics": null,
+          "commentary": null,
+          "details_hash": "#musica/covers/give_up_the_ghost"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cover-good-company-1",
+        "title": "Good Company (Queen)",
+        "data": {
+          "original_id": "good_company",
+          "original_title": "Good Company (Queen)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/q9YTJG8Y2IA",
+          "lyrics": null,
+          "commentary": null,
+          "details_hash": "#musica/covers/good_company"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cover-here-comes-sun-1",
+        "title": "Here Comes The Sun (The Beatles)",
+        "data": {
+          "original_id": "here_comes_the_sun",
+          "original_title": "Here Comes The Sun (The Beatles)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/zQA7oenkQdc",
+          "lyrics": null,
+          "commentary": null,
+          "details_hash": "#musica/covers/here_comes_the_sun"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cover-i-dont-owe-anything-1",
+        "title": "I Don't Owe You Anything (The Smiths)",
+        "data": {
+          "original_id": "i_dont_owe_you_anything",
+          "original_title": "I Don't Owe You Anything (The Smiths)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/bnBkb6AQVKA",
+          "lyrics": null,
+          "commentary": null,
+          "details_hash": "#musica/covers/i_dont_owe_you_anything"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cover-i-wanna-be-your-dog-1",
+        "title": "I Wanna Be Your Dog (The Stooges)",
+        "data": {
+          "original_id": "i_wanna_be_your_dog",
+          "original_title": "I Wanna Be Your Dog (The Stooges)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/CO3IWnBeMaI",
+          "lyrics": null,
+          "commentary": null,
+          "details_hash": "#musica/covers/i_wanna_be_your_dog"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cover-in-my-life-1",
+        "title": "In My Life (The Beatles)",
+        "data": {
+          "original_id": "in_my_life",
+          "original_title": "In My Life (The Beatles)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/p-M7L-l5GHU",
+          "lyrics": null,
+          "commentary": null,
+          "details_hash": "#musica/covers/in_my_life"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cover-killing-an-arab-1",
+        "title": "Killing An Arab (The Cure)",
+        "data": {
+          "original_id": "killing_an_arab",
+          "original_title": "Killing An Arab (The Cure)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/ZlDr__KIbWU",
+          "lyrics": null,
+          "commentary": null,
+          "details_hash": "#musica/covers/killing_an_arab"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cover-la-maquina-del-tiempo-1",
+        "title": "La máquina del tiempo (Rockdrigo González)",
+        "data": {
+          "original_id": "la_maquina_del_tiempo",
+          "original_title": "La máquina del tiempo (Rockdrigo González)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/fHpbwH_eL5g",
+          "lyrics": "Préstame tu máquina del tiempo,\npues siempre te veo muy feliz.\nNo seas egoísta, presta el cuento\npara así poderlo compartir.\n\nPréstame tu máquina del tiempo,\ntambién por ahí quiero viajar.\nConocer el cielo y el infierno\nen tu compañía aeronaval.\n\nDisparados hacia el cielo,\nrumbo a Andrómeda,\nvagando por el infinito voy.\nFastidiado de la guerra\ny la explotación\ny una historia circular\nde vicio y corrupción.\n\nPréstame tu máquina del tiempo,\nquiero conocer la Eternidad,\nsaludar de manos a lo nuevo\ny perderme en una extraña edad.\n\nPréstame tu máquina del tiempo,\nque al cabo tú ni la vas a usar,\nsé que tienes miedo a disolverte\ny perder tu extraña identidad.\n\nDisparados hacia el cielo,\nrumbo a Andrómeda,\nvagando por el infinito voy.\nFastidiado de la guerra\ny la explotación\ny una historia circular\nde vicio y corrupción.\n\nPréstame tu máquina del tiempo...",
+          "commentary": "Este arreglo lo hice tomando la versión acústica que grabó en vivo Rockdrigo González y le puse la batería de Tomorrow Never Knows de Los Beatles. Me gustó mucho la combinación resultante, ya sólo añadí un bajo también parecido al de la canción de Los Beatles y en los coros traté de ponerle un arreglo interesante. Lo considero como un tributo al buen Rockdrigo, las canciones que he escuchado de él tienen unas letras muy interesantes. Me gustaría hacer también hacer una adaptación de No tengo tiempo me identifico mucho con la letra de esa canción, creo que somos mayoría los que nos sentimos así hoy en día, determinados por La Máquina.",
+          "details_hash": "#musica/covers/la_maquina_del_tiempo"
+        },
+        "children": []
+      },
+      {
+        "id": "node-song-cover-lobo-hombre-paris-1",
+        "title": "Lobo-Hombre en París (La Unión)",
+        "data": {
+          "original_id": "lobo_hombre_en_paris",
+          "original_title": "Lobo-Hombre en París (La Unión)",
+          "spotify_url": null,
+          "youtubemusic_url": null,
+          "youtube_url": "https://youtu.be/lKlgDZvzYnM",
+          "lyrics": null,
+          "commentary": null,
+          "details_hash": "#musica/covers/lobo_hombre_en_paris"
+        },
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "node-1743824259891-bnvxc",
+    "title": "Isaac Begué",
+    "data": {
+      "original_id": "isaac-begue",
+      "original_title": "Isaac Begué",
+      "year": 2024,
+      "cover": "assets/img/portadas/isaacbegue.jpg",
+      "description": "Este álbum es una recopilación de canciones que llevo trabajando desde 2012, aproximadamente. ",
+      "spotify_url": "https://open.spotify.com/artist/2gTkLP3FFdcE2xM8NCnTPz",
+      "youtubemusic_url": "https://music.youtube.com/playlist?list=OLAK5uy_lGAOYCtiQ_-w5XfMDFT7aD5u-IV05JsxM",
+      "youtube_playlist_url": null,
+      "details_hash": "#musica/isaac-begue"
+    },
+    "children": [
+      {
+        "id": "node-1743824681702-baoo5",
+        "title": "Primer Contacto",
+        "data": {
+          "original_id": "primer-contacto",
+          "original_title": "Primer Contacto",
+          "lyrics": "Bienvenido a Mundo Felicidad\nHoy tu vida ya no será igual\nTen en cuenta sólo disfrutar\nY olvida tus problemas\nPodrás decir\n\"No quiero salir de aquí\"",
+          "commentary": "Esta canción la compuse después de probar el LSD con mis amigos en el Cerro de la Estrella. Ahí había una pulcata en una casa, el dueño era Don Chicho. El lugar era muy agradable, como un club privado. Llegaba gente de todo tipo y podías platicar muy amenamente con señores y jóvenes. El LSD lo consumimos ahí y luego salimos a dar la vuelta por el cerro. Fue un día muy memorable. Recuerdo haber pensado \"si muero ahorita, moriría feliz\". Ya en retrospectiva creo que fue algo muy peligroso tomar LSD en esas condiciones, afortunadamente llegué bien a casa.",
+          "spotify_url": "https://open.spotify.com/track/48EgSEGzXiZWaIrxQpZZ7l?si=61acb30f1434461a",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=Q0PSHJMm2lk&si=4uJNcy9jZmuCCoxU",
+          "youtube_url": null,
+          "details_hash": "#musica/isaac-begue/primer-contacto"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743972056128-pdjrl",
+        "title": "Ni lo pienses",
+        "data": {
+          "original_id": "ni-lo-pienses",
+          "original_title": "Ni lo pienses",
+          "lyrics": "Hey, ni lo pienses,\npues si lo piensas, no podrás creer\nlo que te cuentan.\nNo, no regreses, pues tu momento\nse acabó también.\nÚltimamente \nno tienes tiempo para resolver\ntodos esos problemas que se vierten\nen un vaso que está por caer.\n\nNo te conoces, \nno sabes lo que puedes ser\nHey, ni lo pienses,\npues si lo piensas, no podrás creer.\n\nHey, ni lo pienses,\npues si lo piensas, no podrás creer\nlo que te cuentan.\nNo, no regreses, pues tu momento\nse acabó también.\nÚltimamente \nno tienes tiempo para resolver\ntodos esos problemas que se vierten\nen un vaso que está por caer.",
+          "commentary": "Esta canción la hice pensando un poco en el reverb de voz que usaba John Lennon en algunas de sus canciones, haciendo alusión a ese efecto que se usaba mucho en los 50's. La parte del solo la hice pensando un poco en el estilo de Tom Morello. La letra creo que es bastante autodescriptiva. ",
+          "spotify_url": "https://open.spotify.com/track/5PGvRJ7eO15dV5NouJ7nV0?si=c3ee1337845c4cc3",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=SLF-nd3Hwd8&list=OLAK5uy_lGAOYCtiQ_-w5XfMDFT7aD5u-IV05JsxM",
+          "youtube_url": "",
+          "details_hash": "#musica/isaac-begue/ni-lo-pienses"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743974155385-grfey",
+        "title": "La importancia de las cosas",
+        "data": {
+          "original_id": "la-importancia-de-las-cosas",
+          "original_title": " La importancia de las cosas",
+          "lyrics": "\"Nada sobrenatural\",\nalguna vez lo quisiste pensar.\nEstas cosas llegan a pasar,\ntal vez debas esperar.\n\nMas te encuentro sin palabras,\nquisiera verte relajada.\nLlenas de alarma la recamara.\n\nTu ser se despoja, \nlenta y dolorosa,\nde la importancia de las cosas.\n\nMas te encuentro sin palabras,\nquisiera verte relajada.\nLlenas de alarma la recamara.\n\"Nada sobrenatural\",\ntal vez quisiste ignorar.\nEstas cosas llegan a pasar,\ntal vez debas esperar más.\n\nTu ser se despoja, \nlenta y dolorosa,\nde la importancia de las cosas.\n\nTu ser se despoja, \nlenta y dolorosa,\nde la importancia de las cosas.\n\nTal vez quisiste ignorar,\ntal vez no quisiste pensar,\ntal vez lo debas olvidar.\n\nTal vez quisiste ignorar,\ntal vez no quisiste pensar,\ntal vez lo debas olvidar.",
+          "commentary": "Esta canción la compuse luego de todo lo que viví cuando le dio una embolia a mi madre, la cual fue influenciada por su diabetes. Fue un momento muy duro en mi vida y, por supuesto, en la de ella y mi familia. Recuerdo que cuando la pasaron a una cama en urgencias todavía hablaba, pero cuando la volví a ver, una vez que ya la \"asignaron a piso\", había perdido la capacidad de hablar, sólo podía decir \"sí\". Recuerdo su desesperación por no poder hablar, fue muy doloroso. La letra habla de cómo mi madre tuvo que lidiar con eso en los últimos años que le quedarían de vida. Ella se había rehabilitado y pudo recuperar el habla y volver a caminar, pero ya no como antes. Cuando se cayó y se fracturó el fémur, eso fue la gota que derramó el vaso. Ella estaba cansada. La operaron, pero cuando la vi después de la operación sentí algo distinto, podía percibir cómo estaba agonizante. Traté de animarla pero supongo que ella simplemente ya estaba cansada, no quería tener que volver a pasar por una rehabilitación, y creo que en verdad puedo entenderlo.\n\nElla se descuidó mucho con la diabetes, tomaba mucha Pepsi y no cuidaba su alimentación. Ella terminaba inyectándose un poco más de la insulina recetada para poder seguir tomando su refresco. No digo que sea completamente su culpa lo que lo pasó. Es decir, obviamente el entorno y el contexto jugaron un papel bastante grande para influir en las decisiones que tomó mi madre. Pero sí me hace reflexionar acerca de la calidad de vida. Cómo muchas personas tenemos hábitos destructivos que son tan difíciles de cambiar. Es fácil decir \"de algo me he morir\", pero el problema está cuando uno no se muere y la calidad de vida y hasta dignidad de una persona caen al suelo. \"Tal vez quisiste ignorar, tal vez no quisiste pensar, tal vez lo debas olvidar\", y lo entiendo. Lo hecho, hecho está, espero poder aprender de los buenos y malos ejemplos de mi madre y agradezco mucho todo el amor y cuidado que me dio. Siempre la extrañaré y guardará un lugar muy especial en mi corazón.",
+          "spotify_url": "https://open.spotify.com/track/2KvERD14Ao9KSGqRkJp2VS?si=3a2db41c185b4d6c",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=xxyQgeJ9XtM&si=SOIkehhSRRM4k3I9",
+          "youtube_url": "",
+          "details_hash": "#musica/isaac-begue/la-importancia-de-las-cosas"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743979774854-3oul9",
+        "title": "Seguiré Adelante",
+        "data": {
+          "original_id": "seguire-adelante",
+          "original_title": "Seguiré Adelante",
+          "lyrics": "Y comienza el sentimiento otra vez,\nno puedo ni quedarme en pie.\nBusco la solución dentro de mí\npero sólo logro aumentar el sentir\n\nTan ridículo, patético\ny sin sentido estoy.\n\nNo te preocupes,\nnadie hay con excepción.\nTodos somos ridículos,\nno hay que tener temor.\n\nConfundido y sin dirección estoy.\nMis errores me persiguen, no hay solución.\nSuelo soñar y no querer despertar,\nno quiero ya volver a la realidad.\n\nLa esperanza que me queda\nestá a punto de acabar.\n\nNo tengas miedo de lo que irá a pasar,\nsé agradecido por tener la oportunidad.\nY cuando te des cuenta, el mundo pasará.\nDebes aprovechar lo que tienes ya.",
+          "commentary": "En esta canción trato de expresar aquellos momentos en los que me he sentido muy vulnerable y confundido, enfrentando emociones que muchas veces preferiría ocultar. Creo que todos, en mayor o menor medida, experimentamos esas sensaciones, aunque a menudo las reprimimos por miedo a mostrarnos débiles. Por eso decidí hacer una letra directa y transparente, reconociendo que está bien aceptar estos sentimientos y que no estamos solos al experimentarlos.\n\nMi intención es transmitir que, aunque la incertidumbre y la inseguridad forman parte inevitable del camino, siempre existe la oportunidad de afrontarlas con gratitud y conciencia del presente. Espero que esta canción acompañe y consuele a quien la escuche, recordándole que es válido sentirse así y que la esperanza, por frágil que parezca, siempre puede estar presente.",
+          "spotify_url": "https://open.spotify.com/track/09vgcAzLvCkeYqGxaEFpY4?si=58c0c42967834400",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=shjZQ8W7oos&si=GVdm6FomVQByDC1l",
+          "youtube_url": "",
+          "details_hash": "#musica/isaac-begue/seguire-adelante"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743982947881-xybp1",
+        "title": "No pude escapar",
+        "data": {
+          "original_id": "no-pude-escapar",
+          "original_title": "No pude escapar",
+          "lyrics": "Pensé que llegaría el momento de escapar\npero no pude ya.\nY tal vez creí que sólo me divertía,\npero algo cambió, cambió mi opinión.\n\nAsí que ahora mi cerebro me traiciona,\nlos químicos que reaccionan al estar junto a ti\nme hace enloquecer pero está bien.\n\n\n\n\nPensé que llegaría el momento de escapar\npero no pude ya.\n\nNo pude escapar de ti,\nno pude escapar de ti.\nNo pude escapar de ti,\nno pude escapar de ti.\nNo pude escapar de ti,\nno pude escapar de ti.\nNo pude escapar de ti,\nno pude escapar.",
+          "commentary": "Esta canción la escribí al querer reflejar la ironía de creer que tenía todo bajo control al entrar en una relación romántica que tube, la creí ligera y sin complicaciones. Sin embargo, fui sorprendido por mis propios sentimientos y terminé atrapado en algo más profundo de lo que anticipé. Fue como pasar de cazador a cazado, descubriendo que las emociones que subestimé al inicio finalmente se apoderaron de mí.\n\nAl final, quise plasmar esa vulnerabilidad inesperada y la impotencia que sentimos cuando nuestros propios sentimientos nos traicionan, revelando que nunca somos tan inmunes o fríos como creemos. Esta canción fue como un reconocimiento de esa realidad emocional.",
+          "spotify_url": "https://open.spotify.com/track/0eAZBKTFf3mT9F3rSTbFqo?si=c15a14719945444d",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=LeanpepdXcg&si=tmUmhHp3JwSbgEDJ",
+          "youtube_url": "",
+          "details_hash": "#musica/isaac-begue/no-pude-escapar"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743983291906-oqy5d",
+        "title": "Dime que esto no es un sueño",
+        "data": {
+          "original_id": "dime-que-esto-no-es-un-sueno",
+          "original_title": "Dime que esto no es un sueño",
+          "lyrics": "El mismo sueño cada vez,\nno puedo alejarte de mi mente.\nTiempo que ha pasado ya,\nsigo como aquellos días\npensando en ti.\n\nNo te puedo hablar\n¿cómo puedo arreglar lo que pasó?\nNo sé qué pensarás,\ntal vez es que ya me has olvidado.\n\nPero no sé ya que hacer,\nquiero encontrarte y poder\nestar contigo, verte otra vez.\nY estás frente de mí\ntan brillante y tan hermosa,\ny me voy acercando a ti.\n\nNos vemos otra vez,\nun abrazo y todo está arreglado,\nsomos felices otra vez,\nun beso y todo queda bien.\n\nDime que esto no es un sueño,\ndime que esto es verdadero.\n¿Cómo enfrentar la triste realidad\nde estar sin ti?\n\n\n\nDime que esto no es un sueño,\ndime que esto es verdadero.\n¿Cómo enfrentar la triste realidad\nde estar sin ti?\n\nHe despertado otra vez.\nEspero que tú estés bien.\n\n",
+          "commentary": "Esta canción la compuse debido una relación que tuve con una chica llamada Cristina, esta relación terminó abruptamente debido a que Cristi vivía en Estados Unidos y nuestro futuro sería muy complicado si hubiésemos querido seguir con aquello. Ella vino de vacaciones con su familia de México y en ese tiempo salimos juntos. Fue bonito mientras duró, lo recuerdo con cariño, pero fue dura la separación.",
+          "spotify_url": "https://open.spotify.com/track/3J1TY46kKOWjb2mzpKSvDT?si=e6170da201044e71",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=WOlb4uCJQUM&si=9v08FmkXRmryzw_7",
+          "youtube_url": "",
+          "details_hash": "#musica/isaac-begue/dime-que-esto-no-es-un-sueno"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743983736715-nl1cg",
+        "title": "Ya encontraré",
+        "data": {
+          "original_id": "ya-encontrare",
+          "original_title": "Ya encontraré",
+          "lyrics": "Ya encontraré otra forma de ser feliz\nNo dependeré de eso para seguir\n¿Qué puedo decir?\nLas cosas son así.\n¿Qué puedo esperar?\nTodo pasará.\n\n\nSólo he de esperar a que todo quede atrás, y así\nllegar hacia un lugar donde ya no importe más\nTodo lo que existe hoy tendrá que terminar\n¿para qué me he de lamentar\nsi ya no importa en realidad?\n\n\n\nYa encontraré otra forma de ser feliz,\nya no queda más que hacer, sólo quiero ver\nel amanecer, el amanecer, el amanecer...",
+          "commentary": "¿Recuerdan la relación de \"No pude escapar\"? Pues esta canción la compuse cuando terminó. Al final sí pude escapar. Dolió pero compuse esta canción para tratar de animarme.",
+          "spotify_url": "https://open.spotify.com/track/32Szdh4r8SkLYWZLSNw7h7?si=a5a76646b2894ddd",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=Bn02E69MKJk&si=509yURdxp8Ho-Okl",
+          "youtube_url": "",
+          "details_hash": "#musica/isaac-begue/ya-encontrare"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743983944114-639qc",
+        "title": "No lo pude evitar",
+        "data": {
+          "original_id": "no-lo-pude-evitar",
+          "original_title": " No lo pude evitar",
+          "lyrics": "Venga, nena, baila conmigo\nsólo quiero captar tus sentidos\nno, no esperes mucho de este lío\nsólo busco a alguien que esté en lo mío.\nSigue ahora el ritmo de mis latidos\ny tal vez nos guste lo que sentimos.\n\nFue la magia en ti\ny en el ambiente de ese lugar,\ndonde lo sueños se hacen realidad,\nno lo pude evitar.\n\nVenga, nena, baila conmigo\nsólo quiero captar tus sentidos\nno, no esperes mucho de este lío\nsólo busco a alguien que esté en lo mío.\nSigue ahora el ritmo de mis latidos\ny tal vez nos guste lo que sentimos.\n\nFue la magia en ti\ny en el ambiente de ese lugar,\ndonde lo sueños se hacen realidad,\nno lo pude evitar.\n\nY ahora que te vuelvo a encontrar\nsólo quiero hacerte recordar\nesos momentos de felicidad\ny vivirlos una vez más.\n\nAsí que venga, nena, baila conmigo\nsólo quiero captar tus sentidos\nno, no esperes mucho de este lío\nsólo busco a alguien que esté en lo mío.\nSigue ahora el ritmo de mis latidos\ny tal vez nos guste lo que sentimos.\n\n",
+          "commentary": "Al hacer esta canción quise capturar un momento sencillo y divertido, donde la intención principal es disfrutar el presente y conectar con alguien más sin complicaciones ni expectativas. Intenté reflejar esa chispa que surge al compartir un momento especial con alguien en un ambiente de energía positiva, donde lo único importante es sentirse vivo y disfrutar la compañía.",
+          "spotify_url": "https://open.spotify.com/track/3cX1AoASh8neS6zkmpwcci?si=97537d1fda30440e",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=m1fb7zoxPTE&si=B2oKX9uVtw3oeP_7",
+          "youtube_url": "",
+          "details_hash": "#musica/isaac-begue/no-lo-pude-evitar"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743984240635-gsng1",
+        "title": "Descontrolada",
+        "data": {
+          "original_id": "descontrolada",
+          "original_title": "Descontrolada",
+          "lyrics": "Hoy te vi descontrolarte,\nhoy te vi descontrolarte.\nLa que estaba no eras tú,\nera un demonio en tu cuerpo.\n¿Qué es esta enfermedad,\nlo que te transformó?\n¿Cómo regresarte a lo que eras,\ncómo destruir esa miseria?\n\n\n\nTal vez la muerte sea\nla solución a tus problemas\ny acabar con esta gran tragedia.\nNo lo quiero ni pensar,\nno lo quiero ni pensar,\nyo podría terminar igual,\nahora debo escapar.\n\n\nHoy te vi descontrolarte.\n\nHoy te vi descontrolarte.",
+          "commentary": "Esta canción habla sobre un apocalipsis zombie.",
+          "spotify_url": "https://open.spotify.com/track/4wqZIaCXt7XJYXv2nCVhq9?si=84dfb3eef5da40d4",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=AHn3rrl2j00&si=LuuM4yypL5LiOdNm",
+          "youtube_url": "",
+          "details_hash": "#musica/isaac-begue/descontrolada"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743984537445-hoh06",
+        "title": "Frenesí",
+        "data": {
+          "original_id": "frenesi",
+          "original_title": "Frenesí",
+          "lyrics": "Dejar con la mirada\na un paroxismo la sal,\nentrar en el terreno\nde lo infinito y lo trascendental.\n\nBien, estando aquí, mientras todo se desvanece\ncontemplaré el Gran Bucle en el acto. \nLa percepción abre sus puertas,\nla concepción se alterará ya,\n¡se alterará, sólo existe el ahora\ny nada más! Ah, ah, ah, ah.\n¡Frenesí!\n\nPodrás pensar soñarlo al regresar,\npero después de esto no será igual,\nel despertar concreto espiritual,\nun solipsismo etéreo o misticidad...\n\n¡No más, no más, no importa, no importa!,\nla vida es sueño, oh, sueño, ah, ah.\n\nPues ya está, no más, \nno más, se va,\nya está, no más... calma.\n",
+          "commentary": "Con esta canción intenté expresar lo complejo e intenso que es experimentar un viaje psicodélico con salvia divinorum. Busqué reflejar cómo la realidad y la percepción pueden alterarse drásticamente, llevándonos a estados en los que el tiempo, el espacio, e incluso el sentido de identidad parecen disolverse en una especie de éxtasis o frenesí trascendental.\n\nEs también un relato sobre cómo, después de una experiencia tan potente, nunca se vuelve al mundo exactamente igual; nuestra conciencia queda marcada por esa breve pero profunda conexión con lo infinito y lo inexplicable. Quise capturar tanto la intensidad como la calma posterior, reflejando cómo estas experiencias pueden ofrecernos momentos efímeros pero reveladores acerca de la naturaleza misma de nuestra existencia.",
+          "spotify_url": "https://open.spotify.com/track/3AJHIvzGrZ70eyMpa2v0KZ?si=0a3ab7a0650b4d36",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=IVPYb2j6tyc&si=LF1Fyw6k6wIYoB-Y",
+          "youtube_url": "",
+          "details_hash": "#musica/isaac-begue/frenesi"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743984844647-o5jy6",
+        "title": "Quiero volar",
+        "data": {
+          "original_id": "quiero-volar",
+          "original_title": "Quiero volar",
+          "lyrics": "Llévame\ndo' pueda sentirme vivo,\nsácame\nde este aburrido nido.\nQuiero poder volar.\nQuiero poder volar.\n\nEs esta rutina la que me domina,\nnecesito cambiar, necesito soñar.\nRenovarme y dejar que venga el cambio.\nBuenos tiempos llegarán, siempre ha sido igual.\nTal vez sólo será cuestión de esperar.\nAhora debo enfocar lo que quiero encontrar\n\nLlévame\ndo' pueda sentirme vivo,\nsácame\nde este aburrido nido.\nQuiero poder volar.\nQuiero poder volar.\n\n\nY sigo esperando\n¿Cuándo llegará?\nLa espera no tiene final,\noh no.\n\n\nQuiero poder volar.\nQuiero poder volar.",
+          "commentary": "Esta canción la compuse al tratar de entrar en la Escuela Nacional de Música de la UNAM. Para bien o para mal, no me quedé. Pero la canción me gusta mucho y traté de exponer el cómo podía llegar a sentirme en esos tiempos, o incluso todavía, algunas veces.",
+          "spotify_url": "https://open.spotify.com/track/38gin9p3Lrcgb6zAAJa1qK?si=87eb24f8cd8349e2",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=E6il-hdhM-U&si=gg44lvQoCLEMr6Y7",
+          "youtube_url": "",
+          "details_hash": "#musica/isaac-begue/quiero-volar"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743985073466-9pbwq",
+        "title": "Si así lo quieres ver",
+        "data": {
+          "original_id": "si-asi-lo-quieres-ver",
+          "original_title": "Si así lo quieres ver",
+          "lyrics": "En su humilde hogar,\ny bajo sus reglas,\nél decidió hacer una nueva forma de vivir\nen la cual se sentía feliz,\na pesar de lo que otros creen.\nMuy particular y hasta radical.\nÉl quería compartir su manera de vivir,\npero sólo era una minoría,\n\"afortunadamente\", según los demás.\n\nAl final no importará lo que digan los demás.\n\nEn su gran mansión ella adoptó\nla manera de vivir que se suele perseguir,\ny también se sentía feliz,\na pesar de lo que otros creen.\nMuy general, pero singular,\nella quiere compartir su manera de vivir\ny es aclamada por la multitud\npor los libros que escribió.\n\n\nAl final no importará lo que digan los demás.\nAl final no importará si así lo quieres ver.",
+          "commentary": "Con esta canción quise hablar sobre cómo distintas formas de vivir pueden ser igualmente válidas si son auténticas. Me interesaba contrastar dos realidades muy distintas: una más alternativa, incluso marginal, y otra completamente aceptada por la mayoría. Ambos personajes encuentran felicidad a su manera, y eso es lo que realmente importa, más allá del reconocimiento o la crítica que reciban. Trato de invitar a reflexionar sobre cómo la sociedad tiende a validar ciertos estilos de vida sólo cuando se ajustan a lo esperado o están respaldados por una mayoría. Con esta canción intento defender la idea de que lo valioso no es cuánto apoyo recibes, sino qué tan genuina es la forma en que decides vivir tu vida.",
+          "spotify_url": "https://open.spotify.com/track/3cct8Xwc6aHWOmorbi7bre?si=9c093110c68445e0",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=mbu51yWSR2k&si=_UT5P7kaI5zEbbMt",
+          "youtube_url": "",
+          "details_hash": "#musica/isaac-begue/si-asi-lo-quieres-ver"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743985133076-feqrl",
+        "title": "Para bien o para mal",
+        "data": {
+          "original_id": "para-bien-o-para-mal",
+          "original_title": "Para bien o para mal",
+          "lyrics": "Me siento bien por un nuevo sol,\npues el ayer dentro del fuego\nse consumió.\n\nPara bien o para mal,\nen verdad no importa más.\n\nSi tú me ves, no te aflijas porque\nyo estaré bien, pues ya lo superé.\n\n\nPara bien o para mal,\nen verdad no importa mucho.\nPara bien o para mal,\nno importa.\n\n\n\n\nPara bien o para mal,\npara bien o para mal, da igual.\nBien, bien o mal.\nBien, bien o mal.",
+          "commentary": "La idea de esta canción salió tras una improvisación con unos ensayos que tuve con mi amigo Jorge, baterista de Capital Orbeats, y con Eder, un amigo suyo. Ya después le compuse la letra, los arreglos y la forma de la canción.",
+          "spotify_url": "https://open.spotify.com/track/4qYsjExetOmiK3aBi3B6It?si=87dfe87868f14903",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=e7hsbrba54o&si=Y2p5kIFLaLaQXx2M",
+          "youtube_url": "",
+          "details_hash": "#musica/isaac-begue/para-bien-o-para-mal"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743985532079-uohlg",
+        "title": "Desaparecer",
+        "data": {
+          "original_id": "desaparecer",
+          "original_title": " Desaparecer",
+          "lyrics": "\"¡Asesinos!\", se escuchó\nun bramido de la multitud\nque sólo puede ver\nlo que le permiten.\n\nMe encontré suspendido entre\neventos que nunca viví\npero que sentí,  sí,  sí, que sí, que sí,\nsentí y no acaban, no.\n\nDe oídas lo escuché,\nmas ahora mis ojos lo ven. ¡Eh!\n\nY, por si acaso, me reservaré\ncomentarios que no sé\nsi peligro lleguen a traer,\ny no sepan más de mí.",
+          "commentary": "Con esta canción quise expresar la sensación de estar atrapado entre narrativas impuestas, donde muchas veces la verdad es manipulada y la multitud reacciona sin cuestionar. Me inspiré en la manera en que los discursos dominantes moldean la percepción colectiva, y en cómo, aunque uno no haya vivido directamente ciertos hechos, puede sentir su impacto profundo y visceral.\n\nTambién intento hacer una reflexión sobre el miedo a hablar, a expresar una verdad que podría ser malinterpretada o incluso peligrosa. Es una canción que nace de la tensión entre lo que uno percibe, lo que calla y lo que se atreve —o no— a decir. Quise dejar esa incomodidad flotando, como una invitación a mirar más allá de lo que nos permiten y podemos ver.",
+          "spotify_url": "https://open.spotify.com/track/4WfYyhlr7LYrqkq0ld3ff8?si=1116cfd573c743b2",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=F0cms3FAjGY&si=HpD1YQ5Qcso0CqS5",
+          "youtube_url": "",
+          "details_hash": "#musica/isaac-begue/desaparecer"
+        },
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "node-1743985722498-gyspk",
+    "title": "Pulsos y siluetas",
+    "data": {
+      "original_id": "pulsos-y-siluetas",
+      "original_title": "Pulsos y siluetas",
+      "year": 2024,
+      "cover": "assets/img/portadas/pulsos-y-siluetas.jpg",
+      "description": "Este EP lo hice con un concepto un poco más electrónico aunque la última canción es más rock alternativo.",
+      "spotify_url": "https://open.spotify.com/album/1pOikwj5tg9Clp2MsUIwwx?si=XXcEFmGtSZKZQd1Dz039mw",
+      "youtubemusic_url": "https://music.youtube.com/playlist?list=OLAK5uy_lz47_rLRQeLceYfuCmOKY7niUYqP5MWpA&si=d9m2rash2HDGHJwd",
+      "youtube_playlist_url": "",
+      "details_hash": "#musica/pulsos-y-siluetas"
+    },
+    "children": [
+      {
+        "id": "node-1743985906424-72xn5",
+        "title": "Atrévete a Gozarlo",
+        "data": {
+          "original_id": "atrevete-a-gozarlo",
+          "original_title": " Atrévete a Gozarlo",
+          "lyrics": "Déjame tocar tu cuerpo\nquiero sentirlo una vez más,\nvolver a experimentar\nlas delicias de amar.\n\nDesata ese gran fuego\ntan difícil controlar,\ny que nos consuma ya,\ny que nos consuma ya.\n\nLibera esa tensión,\ntoma tu control y decisión\ny atrévete a gozarlo.\n\nQuieres conocer tu cuerpo,\ndéjate experimentar,\ndéjate saborear,\ny abraza tu humanidad.\n\nLibera esa tensión,\nlo quieres tanto como yo.\nSólo atrévete a gozarlo\n\n¿Y quién domina a quién:\nel cuerpo a la mente o al revés?\nno lo sé,\nno lo sé.",
+          "commentary": "Con esta canción quise explorar la sensualidad desde un lugar de libertad, consciencia y aceptación del cuerpo. No se trata sólo del deseo físico, sino de lo que implica atreverse a sentirlo, vivirlo y reconocerlo sin vergüenza. Para mí, hablar del placer también es hablar de humanidad, de romper con esa separación entre cuerpo y mente que a veces nos impide disfrutar plenamente.\n\nCon la pregunta final intento exponer esa tensión que muchas veces sentimos entre lo que deseamos y lo que creemos que deberíamos desear. No busco dar una respuesta, sino abrir el espacio para que cada quien se cuestione y se escuche a sí mismo. Es una invitación a experimentar con autenticidad y sin culpa, reconociendo que sentir también es una forma de estar vivo.",
+          "spotify_url": "https://open.spotify.com/track/3afUcAX3bN5ZlC2ESlFKuu?si=4cdfa316211b4ff2",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=ke8PSur3tK8&si=gbn2ayw-q3bYedmn",
+          "youtube_url": "",
+          "details_hash": "#musica/pulsos-y-siluetas/atrevete-a-gozarlo"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743986337610-9tn2x",
+        "title": "Fantasmas Del Pasado",
+        "data": {
+          "original_id": "fantasmas-del-pasado",
+          "original_title": "Fantasmas Del Pasado",
+          "lyrics": "Al añorar lo que ya no es más,\nsu inaccesibilidad,\ny no sé, no sé\npor qué pasa esto\nni qué es lo que debo hacer.\n\nBuenos tiempos han quedado atrás,\npero nuevos vendrán.\nY tal vez, tal vez\nlos estaré añorando\ncomo me ha pasado ya.\n\nFantasmas del pasado\ndebo dejarlos ir\npues aún tengo vida que vivir\n\nSólo queda honrar los momentos\ncon esas personas y lugares que\naunque ya no\nestén en mi vida\npueden ser recordadas\ncon cariño y anhelo.\n\nFantasmas del pasado\ndebo dejarlos ir\npues aún tengo vida que vivir.",
+          "commentary": "Con esta canción quise expresar esa mezcla de nostalgia y aceptación que sentimos cuando recordamos momentos, personas o lugares que ya no forman parte de nuestra vida. Es un intento de reconocer el dolor de la pérdida sin romantizarlo, pero también sin negarlo. Quise hablar de la importancia de honrar lo vivido, sin aferrarse, permitiendo que el recuerdo se transforme en algo valioso y no en una carga. Para mí, escribir esto es como una forma de recordarme que aún puede haber buenos tiempos, sólo que a veces es difícil darse cuenta en el momento, y que aunque extrañe ciertas cosas de otras etapas de la vida, puedo seguir adelante con gratitud de poder haberlas vivido.",
+          "spotify_url": "https://open.spotify.com/track/1kOjdrGiRj5Yjde4Iqgsja?si=ec6def06f03241f3",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=Wg2W2BbngxQ&si=bQJc7yxHstBTqfk6",
+          "youtube_url": "",
+          "details_hash": "#musica/pulsos-y-siluetas/fantasmas-del-pasado"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743986557843-flasv",
+        "title": "Sin Saciar",
+        "data": {
+          "original_id": "sin-saciar",
+          "original_title": " Sin Saciar",
+          "lyrics": "Vacíos y solos\neste mundo nos dejó,\ny no esperes solución\npues es algo que ya no\npodrás lograr\nver en esta vida\n\nSigamos buscando\nsigamos deseando más.\n\nBuscas más, más y más\nsin saciar.\n\n¿Pero qué se puede hacer?\nNo hay futuro incorruptible,\ntienes que ensuciarte\npara llegar a las cimas,\n¿y acaso valdrá la pena?\n\nDeseas más, más y más\nsin saciar,\nsin saciar.\n\nLibertad se vende como lujo y vanidad,\nmientras las cadenas invisibles nos aprietan más.\n\nGana más, compra más, viaja más, \nexperimenta más, conquista más,\npublica más, transmite más, atrae más\nproduce más, consume más, \nvende más, más, más\n\nsin saciar, sin saciar, \nsin saciar, sin saciar.",
+          "commentary": "Con esta canción quise reflejar el vacío que deja una vida guiada por la búsqueda constante de más: más éxito, más reconocimiento, más experiencias, más cosas. Vivimos en un sistema que convierte el deseo en un motor inagotable, pero que rara vez lleva a una verdadera satisfacción. Lo escribí desde un lugar de frustración y lucidez, intentando mostrar cómo incluso la idea de libertad se ha vuelto parte del mismo ciclo de consumo y apariencia.\n\nNo es una canción con respuestas, sino con preguntas incómodas. Me interesa que quien la escuche se detenga a pensar en qué está persiguiendo, y si vale la pena seguir alimentando ese impulso sin fin. A veces, simplemente reconocer el sinsentido ya es un acto de resistencia.",
+          "spotify_url": "https://open.spotify.com/track/633kpaVYdtyPAQi2QwTRFH?si=2f65ee4046bb44d8",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=1lBk4qfcYHg&si=cP3BAC_uSSxnq176",
+          "youtube_url": "",
+          "details_hash": "#musica/pulsos-y-siluetas/sin-saciar"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743986836396-k1y7t",
+        "title": "Mi familia",
+        "data": {
+          "original_id": "mi-familia",
+          "original_title": "Mi familia",
+          "lyrics": "Y cuando siento que ya\nno puedo continuar,\ncontemplo sus caritas\ny sus ojos me impulsan.\n\nY aunque a veces enloquezcan\ny sienta una gran furia,\nnunca lo podría cambiar\nmi familia sentido da.\n\nOh, oh\ncuánto tiempo invertido\ny noches que no he dormido\ny aún así crecen tan pronto.\n\nCuando me pongo a pensar\nque estos tiempos se acabarán\nme recuerdo a valorar\ncada instante en familia.\n\nCuántas cosas cambiarán,\ncuántas han cambiado ya,\ny aunque no sea ideal,\ny aunque no sea ideal\n\nHoy mi vida ocupada\nme abruma y desgasta\npero vale la pena\npues de sentido me llenan.",
+          "commentary": "Con esta canción quise expresar todo lo que implica la experiencia de formar una familia: el cansancio, el caos, la frustración… pero también ese amor profundo que da sentido incluso en los días más difíciles. Trato de hacer un reconocimiento honesto de que no es fácil, pero que, a pesar de todo, no lo cambiaría por nada. En verdad que es difícil disfrutar cada momento cuando uno está tan ocupado, atareado y estresado. Pero de alguna forma es una forma de recordarme —y quizás también recordarle a otros— que, aunque la vida familiar pueda ser abrumadora, está llena de significado si sabemos detenernos a apreciarla.",
+          "spotify_url": "https://open.spotify.com/track/6y0obehFVKEeOWuLUZkjFt?si=23e12765e7354c81",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=49PZ-rNBxhI&si=GdPtai2RRhYd838p",
+          "youtube_url": "",
+          "details_hash": "#musica/pulsos-y-siluetas/mi-familia"
+        },
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "node-1743987400767-n4a3h",
+    "title": "No fui yo, fue el algoritmo",
+    "data": {
+      "original_id": "no-fui-yo-fue-el-algoritmo",
+      "original_title": "No fui yo, fue el algoritmo",
+      "year": "2024-20XX",
+      "cover": "assets/img/portadas/no-fui-yo.jpg",
+      "description": "Esta es una playlist de las canciones que he hecho completamente con IA, en la mayoría (si no es que en todas) he usado Udio para general la música. En la gran mayoría yo hago la letra, la estructura de la canción y determino el estilo que quiero para ésta.",
+      "spotify_url": "",
+      "youtubemusic_url": "",
+      "youtube_playlist_url": "https://www.youtube.com/watch?v=aqNvwRrNZJA&list=PLO6WYGpwVQTjm56cqwrhsj5I78QJe-Blw",
+      "details_hash": "#musica/no-fui-yo-fue-el-algoritmo"
+    },
+    "children": [
+      {
+        "id": "node-1743987516079-fxw90",
+        "title": "Visiones oníricas",
+        "data": {
+          "original_id": "visiones-oniricas",
+          "original_title": "Visiones oníricas",
+          "lyrics": "[Intro]\n\n[Smooth electric guitar arpeggio with delay effects]\n\n[Verso 1]\nEn la penumbra de esta habitación\nMis pensamientos danzan sin control\nSombras de un pasado que no se fue\nEcos de un futuro que nunca llegué\n\n[Pre-coro]\nY en este laberinto mental\nBusco una salida, una señal\n\n[Verso 2]\nSoy prisionero de mi mente\nCautivo de mi propio ser\nNavegando en mares de incertidumbre\nincertidumbre\n¿Algún día podré volver a creer?\n\n[Coro]\nCreer en mí, creer en ti\nEn un mundo por construir\n\n[Verso 3]\nVeo el tiempo disolverse en la pared\nGotas de segundos que no puedo detener\nCada tic-tac es un eco en mi mente\nUn recordatorio que sigo aquí presente\n\n[Coro]\nCreer en mí, creer en ti\nEn un mundo por construir\n\n[Instrumental]\n\n[Outro]\nLa realidad se distorsiona al pensar,\nVisiones oníricas que me vienen a atrapar\nFragmentos de lo que fui,\nDestellos de lo que seré\nCon cada respirar\nIntento comprender",
+          "commentary": "Esta canción la hice con #Udio, le puse etiquetas que describían el estilo de #Radiohead pero le pedí a #ClaudeAI que generara una letra en español tipo #ThomeYorke y resulta que revivimos a #GustavoCerati . Realmente me gustó la canción. Ya al final separé la voz de la música para poder hacerle algunos ajustes con mi #DAW #AcousticaMixcaft #Mixcraft .",
+          "spotify_url": "",
+          "youtubemusic_url": "",
+          "youtube_url": "https://youtu.be/aqNvwRrNZJA?si=4yGlOKVi6PmsRDS3",
+          "details_hash": "#musica/no-fui-yo-fue-el-algoritmo/visiones-oniricas"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743987563419-w782b",
+        "title": "Anarquía en las calles",
+        "data": {
+          "original_id": "anarquia-en-las-calles",
+          "original_title": "Anarquía en las calles",
+          "lyrics": "",
+          "commentary": "[Intro]\nSociedad podrida, mentiras y corrupción\nNo hay futuro para esta generación\n\n[Verso 1]\nPolíticos puercos, nos tratan como a cerdos\nNos engañan con promesas, nos toman por lerdos\nTrabajar como esclavos, para los ricachones\nMientras ellos se enriquecen, nos dejan sin opciones\n\n[Chorus]\n¡Anarquía en las calles!\n¡Rebelión sin cesar!\n¡No nos callarán!\n¡Vamos a luchar!\n\n[Verso 2]\nSistema educativo, pura manipulación\nNos llenan la cabeza, con desinformación\nLa iglesia y el estado, instituciones de control\nMantienen a las masas, bajo su sucio rol\n\n[Chorus]\n¡Anarquía en las calles!\n¡Rebelión sin cesar!\n¡No nos callarán!\n¡Vamos a luchar!\n\n[wild guitar solo]\n\n[Chorus]\n¡Anarquía en las calles!\n¡Rebelión sin cesar!\n¡No nos callarán!\n¡Vamos a luchar!\n\n[Verso 3]\nLevantemos la voz, destruyamos la opresión\n¡Que se escuche el grito, de la revolución!\n\n[Chorus]\n¡Anarquía en las calles!\n¡Rebelión sin cesar!\n¡No nos callarán!\n¡Vamos a luchar!\n\n[Outro]\n¡No nos callarán!\n¡Vamos a luchar!\n¡No nos callarán!\n¡Vamos a luchar!",
+          "spotify_url": "",
+          "youtubemusic_url": "",
+          "youtube_url": "https://youtu.be/1yRD4fE_dq8?si=3jGdBz9zGvaDM9qK",
+          "details_hash": "#musica/no-fui-yo-fue-el-algoritmo/anarquia-en-las-calles"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743987604257-clbhs",
+        "title": "Renegade Soul",
+        "data": {
+          "original_id": "renegade-soul",
+          "original_title": "Renegade Soul",
+          "lyrics": "Verse 1]\nI'm the kid on the street, wild and free\nWith my heart on my sleeve, for all to see\nI don't care what they say, I'll find my way\nIn this world full of rules, I'm here to play\n\n[Chorus]\nI am the youth, untamed and proud\nI'll shout it out, I'll sing it loud\nThis life is mine, I'll make it count\n'Cause I'm the one who'll turn it all around\n\n[Verse 2]\nThey can't hold me down, I'm breaking through\nWith my dreams and my sounds, they can't subdue\nI'm the voice of my time, the beating rhyme\nIn the face of their hate, I stand sublime\n\n[Chorus]\nI am the youth, untamed and proud\nI'll shout it out, I'll sing it loud\nThis life is mine, I'll make it count\n'Cause I'm the one who'll turn it all around\n\n[Bridge]\nThey can't stop me, they can't control\nThe fire that's inside my soul\nI'm the one who breaks the mold\nThe future's now, let it unfold\n\n[guitar solo]\n\n[Chorus]\nI am the youth, untamed and proud\nI'll shout it out, I'll sing it loud\nThis life is mine, I'll make it count\nThis life is mine, I'll make it count\nThis life is mine, I'll make it count\nThis life is mine, I'll make it count\n",
+          "commentary": "",
+          "spotify_url": "",
+          "youtubemusic_url": "",
+          "youtube_url": "https://youtu.be/p0_UICN8Y6o?si=GuvqSFVIQE7px787",
+          "details_hash": "#musica/no-fui-yo-fue-el-algoritmo/renegade-soul"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743987710496-rdckb",
+        "title": "Shattered Mirrors",
+        "data": {
+          "original_id": "shattered-mirrors",
+          "original_title": "Shattered Mirrors",
+          "lyrics": "[Verse1]\nTrapped in a maze of yesterday's dreams\nSuffocating in a world of worn-out seams\nBut I won't let them dim my fire\nI'll break the chains, I'll climb higher\n\n[Chorus]\nShattered mirrors, can't you see?\nYour reflections don't define me\n\n[Verse 2]\nI'm not the echo of their faded song\nI've got a rhythm that is all my own\nI'll paint my story, I will make my way\nEven though I have to go through the fray\n\n[Chorus]\nShattered mirrors, can't you see?\nYour reflections don't define me\n\n[instrumental]\n(ah, ah)\n\nI can't be framed by your perceptions\nI'm always more than misconceptions\n\n[Chorus]\nShattered mirrors, can't you see?\nYour reflections don't define me\n\nShattered mirrors, now you see\nYour reflections don't define me\n\n(I can't be framed by your perceptions)\n(I'm always more than misconceptions)",
+          "commentary": "Para esta canción le pedí ayuda a #ClaudeAI para generar una letra en inglés con el siguiente tema \"Conflicto generacional y rechazo de valores tradicionales\", esa letra generada la utilicé como base para desarrollar esta canción, ya sólo la ajusté para transmitir exactamente lo que siento, y fui generando la música con #Udio, por mi parte yo le di la estructura a la canción (al igual que con las canciones generadas anteriormente). Esta es la letra. Espero puedan entender cómo me siento a veces o por lo menos poder transmitirles algo de valor",
+          "spotify_url": "",
+          "youtubemusic_url": "",
+          "youtube_url": "https://youtu.be/1FfJ9JnTYIs?si=3ynNU7sp3pqxgan1",
+          "details_hash": "#musica/no-fui-yo-fue-el-algoritmo/shattered-mirrors"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743987917295-tw2fn",
+        "title": "¿A dónde voy?",
+        "data": {
+          "original_id": "a-donde-voy",
+          "original_title": "¿A dónde voy?",
+          "lyrics": "[Verse 1]\nRed de código, globalización,\nmi voz se pierde, gran saturación,\ndatos inmensos, caos total,\n¿dónde estoy? ¿a dónde voy?\n¿dónde estoy? ¿a dónde voy?\n\n[Verse 2]\nespejismos\nlucha digital\nentre sombras\ny superindividual\ngran ironía\nde accesibilidad\n¿dónde estoy? ¿a dónde voy?\n¿dónde estoy? ¿a dónde voy?\n\n[Bridge]\nCompetir \ncontra imperios, \n¿cómo resistir?\nlucha desigual\n\n[Verse 1]\nRed de código, globalización,\nmi voz se pierde, gran saturación,\ndatos inmensos, caos total,\n¿dónde estoy? ¿a dónde voy?\n¿dónde estoy? ¿a dónde voy?\n\n¿dónde estoy? ¿a dónde voy?\n¿dónde estoy? ¿a dónde voy?",
+          "commentary": "",
+          "spotify_url": "",
+          "youtubemusic_url": "",
+          "youtube_url": "https://youtu.be/3usuxZ3ktIg?si=RMR4WEKE4-JQJdeM",
+          "details_hash": "#musica/no-fui-yo-fue-el-algoritmo/a-donde-voy"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743987947204-pre4x",
+        "title": "Sinful Desires",
+        "data": {
+          "original_id": "sinful-desires",
+          "original_title": "Sinful Desires",
+          "lyrics": "Verse 1]\nThere's something in the shadows, a glimmer in the forbidden,\na game without rules, where nothing’s hidden.\nBeneath the skin, whispers stray,\nwho draws the line? Who decides what’s \"decay\"?\n\n[Chorus]\nI want to taste what reason denies,\nwhere sighs are born, no shame, no lies.\nIf pleasure’s a sin, then pray for me,\nand in every dark breath, find what you seek.\n\n[Verse 2]\nWe hide our desires behind polite grins,\nbut there's a world beneath all our skins.\nIt’s not just flesh; it's the mind that schemes,\nis it a crime to chase forbidden dreams?\n(Uh!!!!)\n(Ah!!!)\n\n[Chorus]\nI want to taste what reason denies,\nwhere sighs are born, no shame, no lies.\nIf pleasure’s a sin, then pray for me,\nand in every dark breath, find what you seek.\n\n[Outro]\naaaHH!!!!!\ncome on, come on!!!!!\nIf pleasure’s a sin, then pray for me!\ncome on, come on!!!!!\nIf pleasure’s a sin, then pray for me!\ncome on, come on!!!!!\nIf pleasure’s a sin, then pray for meeee!!!!\nCome on, come on!\nAHhh!!!!!",
+          "commentary": "",
+          "spotify_url": "",
+          "youtubemusic_url": "",
+          "youtube_url": "https://youtu.be/SgKZ8iJsen4?si=LqmftKX37n288XsE",
+          "details_hash": "#musica/no-fui-yo-fue-el-algoritmo/sinful-desires"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743987971656-9gx0r",
+        "title": "Profeta del Nopal",
+        "data": {
+          "original_id": "profeta-del-nopal",
+          "original_title": "Profeta del Nopal",
+          "lyrics": "[Verso 1]\nQuieren marcarme, \nponerme un jodido nombre,\ndecir quién soy, \ndecirme a dónde.\nCada paso, cada maldito gesto,\nme miran y me joden, \nen su juego enfermo.\n\n[Coro]\nYa lo decía el Profeta del Nopal,\ny ya lo decía el Juanito Lennon,\npero nomás no los entendieron.\n\n[Verso 2]\nMe llaman raro, \nse burlan y me provocan, \nporque no soy su copia, \nno soy su clon.\nIndefinido y fuera del molde estoy,\npero a mi no me importan\nsus jodidas normas.\n\n[Coro]\nYa lo decía el Profeta del Nopal,\ny ya lo decían muchos otros más,\npero nomás no quisieron escuchar.\n\n[Solo]\n\n[Coro]\nYa lo decía el Profeta del Nopal,\nDe las etiquetas no poder escapar,\ny esto se hizo con mucha ironía.\n\n[Outro]\nPero soy lo que soy, \ny soy mucho más,\nque simples etiquetas\nPero soy lo que soy, \ny soy mucho más,\nque simples etiquetas",
+          "commentary": "",
+          "spotify_url": "",
+          "youtubemusic_url": "",
+          "youtube_url": "https://youtu.be/HK_Rg2GoGGM?si=TCT4e10D4GqWhVmm",
+          "details_hash": "#musica/no-fui-yo-fue-el-algoritmo/profeta-del-nopal"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743987996166-5xynb",
+        "title": "Microtone",
+        "data": {
+          "original_id": "microtone",
+          "original_title": "Microtone",
+          "lyrics": "[Verse 1]\nFeel the energy, let it guide our feet\nDissonant harmony played on repeat\nSynthesizers hum in cosmic tones\nTurning ordinary into rare stones\n\nI've got a beat that's wild and free,\nMicrotonal waves rolling over me.\nElectric pulse with a rockin' flow,\nDrums pounding fast, feeling the show.\n\n[Chorus]\nMicrotone, microtone, take me high,\nRocking in the waves, reach for the sky.\nMicrotone, microtone, let it ride,\nFeel the rush and the rhythm collide.\n\n[Verse 2]\nElectric strings scream under neon lights,\nBending notes to new heights, in sync with the night.\nThrough the sonic waves, we find our path,\nLost in the groove, avoiding aftermath.\n\nA cascade of sounds, intricate yet bold,\nThe microtones weave, stories untold.\nFeel the rise as the rhythm takes command,\nIn this sonic land, we understand.\n\n[Chorus]\nMicrotone, microtone, take me high,\nRocking in the waves, reach for the sky.\nMicrotone, microtone, let it ride,\nFeel the rush and the rhythm rhythm collide.\n\n[Chorus]\nMicrotone, microtone, take me high,\nRocking in the waves, reach for the sky.\nMicrotone, microtone, let it ride,\nFeel the rush and the rhythm collide.\n\n[Chorus]\nMicrotone, microtone, take me high,\nRocking in the waves, reach for the sky.\nMicrotone, microtone, let it ride,\nFeel the rush and the rhythm collide.",
+          "commentary": "",
+          "spotify_url": "",
+          "youtubemusic_url": "",
+          "youtube_url": "https://youtu.be/9Yd2e6gfuTQ?si=uCHjnzziYGH2VeuJ",
+          "details_hash": "#musica/no-fui-yo-fue-el-algoritmo/microtone"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743988019505-x8bu7",
+        "title": "Molde Quebrado",
+        "data": {
+          "original_id": "molde-quebrado",
+          "original_title": "Molde Quebrado",
+          "lyrics": "[Verso 1]\nMolde Quebrado,\nno encajo, no quiero,\nme amasan, me callan, \nme cortan el vuelo.\nSoy grieta  en su muro, \nsoy paria en su ley,\nme quieren , joder, \npero aquí estaré.\n\n[Verso 2]\nMolde Quebrado, \nMolde Quebrado,\nno soy su peón \nni tampoco su perro.\nSoy la ceniza \ndel fuego profundo.\nY aunque  lo apaguen, \nyo lo resurjo.\n\n[Coro]\nSoy la piedra en su camino,\nque  muestra su imperfección.\nsoy la avispa que les pica\ncon su contradicción.\n\n[Solo]\n\n[Verso 3]\nMolde Quebrado, \nmolde quebrado,\nsoy realidad \nque agita cimientos\nque cuando se expone \nprovoca estruendo\ny aunque la oculten \nrevela sus luces,\n\nrevela sus luces,\nrevela sus luces,\nrevela sus luces,\nrevela sus luces,\n\nrevela sus luces,\nrevela sus luces,\nrevela sus luces,\nrevela sus luces...\n\n[Coro]\nSoy la piedra en su camino\nque muestra su imperfección\nSoy la avispa que les pica \ncon su contradicción.\n\n[Outro]\nMolde Quebrado,\nMolde Quebrado,\nMolde Quebrado,\nMolde Quebrado,\nMolde Quebrado,\nMolde Quebrado\n¡Ahhh!",
+          "commentary": "",
+          "spotify_url": "",
+          "youtubemusic_url": "",
+          "youtube_url": "https://youtu.be/hmQQuq2ttfo?si=KWatfjebDz8zMLaW",
+          "details_hash": "#musica/no-fui-yo-fue-el-algoritmo/molde-quebrado"
+        },
+        "children": []
+      }
+    ]
+  }
+]

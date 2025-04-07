@@ -1,0 +1,129 @@
+.page-not-found {
+    display: flex;
+    height: 600px;
+    align-items: center;
+    justify-content: center;
+  }
+  .opciones-publicaciones li a {
+    display: flex;
+    justify-content: center;
+    color: #999;
+    font-size: 2rem;
+    padding: 30px 0;
+  }
+  @media (min-width: 768px) {
+    .opciones-publicaciones li a {
+      padding: 30px;
+    }
+  }
+  .opciones-publicaciones li a img {
+    margin-right: 10px;
+    max-width: 30px;
+  }
+  .opciones-publicaciones li:hover a {
+    transform: scale(1.1);
+    text-shadow: 1px 1px 20px #2a78cb;
+  }
+  .pensamiento-disperso {
+    cursor: pointer;
+  }
+  .pensamiento-disperso p {
+    height: 0;
+    visibility: hidden;
+  }
+  .pensamiento-disperso.ver-parrafos {
+    cursor: pointer;
+  }
+  .pensamiento-disperso.ver-parrafos p {
+    height: auto;
+    visibility: visible;
+  }
+  /* Corrección de Color para Contenido Dinámico v2 */
+  #song-detail-commentary > div,
+  #song-detail-commentary > div p,
+  #song-detail-commentary > div small {
+    color: #999;
+    text-align: justify;
+  }
+  #post-detail-content,
+  #post-detail-content div,
+  #post-detail-content p,
+  #post-detail-content li,
+  #post-detail-content small,
+  #post-detail-content span,
+  #song-detail-lyrics pre,
+  #post-detail-content pre,
+  #album-detail-songlist,
+  #album-detail-description,
+  #album-detail-description p {
+    color: #999 !important;
+    text-align: justify;
+  }
+  #post-detail-content a {
+    color: #2a78cb !important;
+  }
+  #post-detail-content a:hover {
+    color: #639fdf !important;
+  }
+  
+  /* Estilos para Secciones Desplegables en Publicaciones */
+.deployable-section {
+  margin-bottom: 1rem; /* Espacio entre secciones */
+  border-bottom: 1px solid #333; /* Separador ligero */
+  padding-bottom: 0.5rem;
+}
+
+.deployable-title {
+  padding: 5px;
+  border-radius: 3px;
+  transition: background-color 0.2s ease;
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  text-align: left;
+}
+
+.deployable-title:hover {
+  background-color: #2a3a4a; /* Un fondo sutil al pasar el ratón */
+}
+
+.deployable-title small {
+  font-size: 0.8em;
+  font-weight: normal;
+  color: #888; /* Color más tenue para la fecha */
+  margin-left: 0.5em; /* Espacio antes de la fecha */
+}
+
+.deploy-icon {
+  font-size: 0.8em;
+  margin-left: 1em; /* Espacio antes del icono */
+  color: #888;
+  transition: transform 0.2s ease; /* Animar icono (opcional) */
+}
+
+.deployable-title.active .deploy-icon {
+ /* transform: rotate(180deg); */ /* Gira el icono si quieres una flecha que rote */
+}
+
+.deployable-content {
+  padding: 0.5rem 0 0.5rem 1.5rem; /* Indentación para el contenido */
+  border-left: 2px solid #444; /* Línea lateral para indicar jerarquía */
+  margin-left: 5px;
+  /* La visibilidad se controla con display: none/block desde JS */
+}
+
+/* Asegurar que el contenido dentro del desplegable tenga el color correcto */
+.deployable-content,
+.deployable-content p,
+.deployable-content div,
+.deployable-content li,
+.deployable-content pre {
+    color: #999 !important; /* Hereda o usa el color base */
+    text-align: justify;
+}
+.deployable-content a {
+    color: #2a78cb !important; /* Mantener color de enlaces */
+}
+.deployable-content a:hover {
+    color: #639fdf !important;
+}
+

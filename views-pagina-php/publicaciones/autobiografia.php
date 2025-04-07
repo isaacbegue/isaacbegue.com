@@ -1,0 +1,80 @@
+<main class="contenedor">
+    <h1><img src="/build/img/iconsNlogos/feather-alt-solid.svg" alt="icon">Autobiografía</h1>
+    <p class="alinear-derecha">
+        <a href="/publicaciones">Volver</a>
+    </p>
+
+    <div class="autobiografia">
+
+        <div class="cuna-cristriana">
+            <h3>Una infancia en cuna cristiana</h3>
+            <p>
+                Nací en la Ciudad de México —en aquél entonces Distrito Federal— el martes 16 de marzo de 1993 dentro de una familia relativamente nueva en el cristianismo. Mi padre acababa prácticamente de restaurar su matrimonio con mi madre después de estar separados debido al problema con el alcohol que tenía mi padre. Él encontró la forma transformar su vida renunciando por completo al alcohol con la ayuda de su fe en Cristo y entregándose a la doctrina y estilo de vida cristiano. Él llevó a mi madre a la iglesia y con el tiempo terminó adoptando la misma fe y dándole otra oportunidad a mi papá. Me nombraron Isaac debido a la analogía que notó mi papá con la historía de Abraham y Sara: porque me tuvieron en su "vejez", mi papá de unos 40 años y mi madre de unos 42, y porque cuando mi mamá le dió la noticia a mi papá él dijo "no seas payasa" y le causó risa, que es básicamente lo que significa "Isaac". Definitivamente nací en una familia muy distina a la familia en que nacieron mis otros tres hermanos. Unos años después de que nací mi padre había renunciado a su antiguo trabajo para dedicarse por completo al ministerio de la iglesia, tomando el puesto de Anciano. En este ambiente me crié, yendo al culto en la iglesia todos los domingos con muy raras excepciones. 
+            </p>
+            <p>    
+                A los 6 años mi papá me inscribió a clases de batería, que se daban todos los sábados en la escuela de música recién inaugurada de la iglesia, siempre recordaré con cariño a mi maestro de batería Daniel López Yañez. Me ingresaron en las clases porque mis papás habían notado que me llamaba mucho la atención la batería, seguramente por la música en vivo que escuchábamos todos los domingos en la iglesia, incluso agarraba las agujas de tejer de mi mamá y las usaba como baquetas pegándole a los sartenes y charolas de la cocina... le eché a perder muchas agujas a mi mamá. Como a los 7 años me compraron una batería. Mi papá siempre tuvo la esperanza de que yo llegara a dedicar mi vida por completo al ministerio, pasando por la alabanza hasta llegar a ser pastor. Sin embargo los padres no pueden determinar el destino de sus hijos, por muy bien intencionados que puedan ser. Como a los 8 o 9 años estaba fastidiado de tener que ir a clases de música, simplemente me aburrió, me disgustaba bastante tener que levantarme temprano todos los dias, si no por la escuela, por las clases de música o la iglesia, así que dejé de ir a las clases de música.
+            </p>
+            <p>
+                A los 13 años, cuando iba en segundo de secundaria, mis papás me inscribieron a un retiro de jóvenes de la iglesia. Fue una experiencia muy emocional. Regresé convertido en un cristiano devoto por completo, incluso intenté evangelizar a mis amigos y compañeros de la secundaria. También me volvió a interesar la música y volví a las clases de batería para algún día entrar en el grupo de alabanza. Incluso con la teoría que había aprendido en las clases de batería comencé a estudiar y practicar con la guitarra de manera autodidacta. Mi madre me compró una guitarra acústica sencilla para comenzar a aprender. Para ese entonces mi papá ya había alcanzado el grado de Pastor.
+            </p>
+            <p>
+                En tercero de secundaria, entre 2007 y 2008, a mi papá le asignaron una iglesia de apenas uno o dos años que había comenzado con una <em>célula</em> en casa de una <em>hermana</em> que vivía en Ixtapaluca, Estado de México. Fue una época complicada, porque Ixtapaluca no estaba lo suficientemente lejos como para tener que mudarse, pero tampoco estaba nada cerca de donde vivíamos. Mi papá nos llevó a mi mamá y a mí a Ixtapaluca todos los domingos —mis hermanos no iban porque mi hermana mayor ya vivía en Jalisco desde prácticamente toda mi vida, mi hermano Memo no vivía en la casa y no le interesba nada del cristianismo y Manuel simplemente había tomado la decisión de no ir—. Ingresé en el grupo de alabanza tocando la batería, ahí fue donde conocí a Eduardo Escalona, hijo de la <em>hermana</em> que prestaba su casa para realizar los eventos de la iglesia en su patio, él tocaba la batería y también sabía tocar la guitarra. Tiempo después mi papá comenzó a rentar una casa en Ixtapaluca, así que los viernes saliendo de la escuela nos íbamos a la casa de Ixtapaluca y regresábamos los domingos en la tarde para que yo continuara yendo a la escuela y todo eso. Así pasé toda mi adolescencia yendo los fines de semana a Ixtapaluca.
+            </p>
+        </div>
+        <div class="metamorfosis">
+            <h3>Metamorfosis</h3>
+
+            <p>
+                En agosto del 2008 logré entrar a la ENP#5 en el turno vespertino. Ser cristiano en la prepa fue algo muy difícil, sobre todo porque yo ya tenía mucha curiosidad por las fiestas, las chicas y la diversión "desenfrenada". Me sentía muy frustrado por sentir que me perdía de todo eso y poco a poco dejé de reprimir mis impulsos. Sin embargo no fue sino hasta el 3er año —o 6° de prepa, como también suele llamársele— que ya iba a fiestas con alcohol, también en ese entonces fue cuando probé la marihuana y todas estas cosas tan divertidas y nuevas para mí. Para bien o para mal nunca tuve mucha suerte con las mujeres, siempre fui muy tímido en ese tipo de situaciones románticas. En este punto yo ya sólo veía a la iglesia como una carga que ya no soportaba más, además con las cosas que iba aprendiendo en la escuela me surgían más dudas filosóficas y cada vez me costaba más trabajo creer en la fe cristiana —algunas de las dudas las expongo en la sección de <a href="/publicaciones/pensamientos_dispersos">pensamientos dispersos</a>—. La época de la prepa fue muy bella, a pesar de las complicaciones, además las instalaciones me gustaban mucho y todos los cambios que viví fueron muy determinantes en mi forma de ver la vida.
+            </p>
+            <p>
+                No pude terminar la prepa en 3 años debido a que quedé a deber dos materias seriadas las cuales recursé y con el tiempo libre me metí a la carrera técnica de contabilidad para aprovechar todo el tiempo de sobra. En 2012 comencé mi servicio social y me quedé a trabajar en esa empresa cuando lo terminé, que era del tío de un amigo de la prepa. Sin embargo nunca se me registró en el IMSS como trabajador y la paga era muy poca, aunque también sólo era un trabajo de medio tiempo. Las materias que me faltaban en la prepa las pasé en exámenes extraordinarios y por fin terminé la preparatoria. 2013 fue un año de muchos cambios, no sólo empecé mi Diario sino que también fue el año en que finalmente dejé de ir a la iglesia. Había hablado con mi papá y me armé de valor para decir que ya no quería ir a la iglesia, ya estaba harto, quería ya poder empezar a hacerme cargo de mi vida, seguramente fue una situación que debió entristecer bastante a mi papá, y nunca fue mi intención, simplemente no soportaba más estar viviendo una doble vida, mi mamá siempre se portó mucho más comprensiva conmigo y no lo tomó tan apecho.2013 también estuvo lleno de fiestas en la casa que tenía libre los fines de semana porque mis papás se iban a Ixtapaluca y mi hermano Manuel ya se había casado y mudado desde 2011. Fue una época algo viciosa, pero me alegra haberla vivido, siento que fue necesario para poder hartarme de las fiestas cada fin de semana y buscar algo más. Estuve trabajando todo el 2013 en el trabajo ya mencionado hasta que en 2014 decidí ingresar a la licenciatura en filosofía en la Facultad de Filosofía y Letras en CU. Afortunadamente tenía el pase directo y debía aprovecharlo.
+            </p>
+            <p>
+                En junio del 2014 mi madre sufrió de una embolia por la diabetes, perdió la capacidad de caminar y de hablar. Fue algo muy duro para mí y mi familia. Estuvo hospitalizada todo un mes, sin embargo ya no pudo volver a hablar con la misma fluidez y todavía tardó varios meses en poder volver a caminar con ayuda de una andadera. 
+            </p>
+            <p>
+                Finalmente en agosto del 2014 entré a la carrera de filosofía. Mi tiempo en la carrera fue fantástico, nunca me había sentido tan motivado de estudiar. En realidad nunca me interesó la escuela hasta que decidí entrar a Filosofía. Mis materias favoritas fueron epistemología y lógica. Creo que nunca había aprendido tantas cosas en tampoco tiempo. Me encantaba estudiar en CU, me encantaba el ambiente, me sentía como si por fin hubiese encontrado un lugar al que pertenecía. Sin embargo no pude terminar mi carrera y la abandoné cuando terminó el segundo semestre debido a que mi vida dio otro cambio de dirección: me casé.
+            </p>
+        </div>
+        <div class="camino-adultez">
+            <h3>Camino a la adultez</h3>
+
+            <p>
+                Un día de diciembre del 2014 saliendo de clases en la Facultad me reuní con mis compañeros para convivir con un poco de alcohol. Uno de mis compañeros se tomó una foto conmigo y la subió a su Facebook. Esa foto fue comentada por su prima, a quien le parecí atractivo. Nos comenzamos a hablar desde entonces, esta chica se hacía llamar Marion. Comenzamos a salir y una cosa llevó a la otra. Nos hicimos novios y, cuando conocí a mis suegros, mi suegro sugirió que nos casáramos, que él nos apoyaría si tomábamos la decisión. Yo nunca esperé que todo fluyera como fluyó. Sin embargo nunca me había sentido tan enamorado, feliz y correspondido. Nos armamos de valor y en agosto de 2015 nos casamos. En este momento mis prioridades ya habían cambiado por completo. Necesitaba conseguir un trabajo, ya no tenía tiempo de terminar la carrera, que de cualquier manera no tenía planeado dedicarme a escribir libros o ser maestro, que eran las opciones que conocía, la filosofía siempre ocuparía un lugar muy importante en mi vida, pero no para dedicarme de manera profesional.
+            </p>
+            <p>
+                Vivimos en Xochimilco nuestros primeros meses de matrimonio, mi esposa ya tenía trabajo y yo encontré trabajo de cajero en Citi Banamex. Trabajar en Banamex ha sido la peor experiencia laboral que he podido experimentar. El ambiente laboral simplemente era pésimo, yo me sentía completamente estresado y oprimido. No duré mucho ahí. Entré en septiembre del 2015 y renuncié en diciembre del mismo año. No solo el ambiente laboral era pésimo sino que ni siquiera respetaban el horario diciendo que "tenemos hora de entrada pero no de salida" cubriendo muchas veces horarios de hasta 12 horas todos los días. Él último día en ese trabajo tuve que pagar un faltante de 8 mil pesos que tuve en mi corte de caja, el cual sucedió por un problema con la máquina contadora que guardaba el efectivo, la cual se trabó de pronto y ya no pudimos obtener la cantidad que se había ingresado, mi jefe no me quiso apoyar para que cerrara mi caja y cuadrara lo que tenía porque quería que siguiera atendiendo, así que la señora se aprovechó de la situación e insistió que me había dado el dinero completo del depósito. Tener que pagar esos 8 mil pesos fue la gota que derramó el vaso, al día siguiente renuncié.
+            </p>
+            <p>
+                Cuando renuncié al trabajo en Banamex ya vivía con mi esposa en la colonia Jardín Balbuena. Tardé unos meses en encontrar otro trabajo. Afortunadamente en marzo del 2016 pude entrar a GNP en la parte administrativa gracias a la carrera técnica que había hecho en la prepa. Tuve mucha suerte porque entré como eventual y las cosas se acomodaron para que tuviese la planta ya como empleado directo de GNP al siguiente mes, en abril. De verdad considero una bendición el haber obtenido este trabajo, mucho mejor en todos los sentidos que aquél en Banamex.
+            </p>
+            <p>
+                En agosto del 2016 muere mi madre, sufrió una caída que le fracturó el fémur y la tuvieron que hospitalizar de nuevo. Mi madre simplemente se dejó morir, ya no estaba dispuesta a pasar por otra terapia para poder volver a caminar, cuando salió de la operación del fémur ella ya estaba en su lecho de muerte. Puedo comprender que se haya dado por vencida, aunque siempre la extrañaré. Mi mamá me apoyó siempre, hasta con la boda tan precipidada que tuve, siempre estaré agradecido por todo su amor.
+            </p>
+            <p>
+                En septiembre 2016 estuve con el proyecto de Capital Orbeats hasta que terminó en abril de 2017. 2017 fue un año difícil para mi matrimonio. Me separé de mi esposa y me fui a vivir con mi hermano Memo. Sin embargo, después de unos meses separados nos reconciliamos. En junio del 2018 nace mi hijo. La decisión de tener un hijo la tomé igual que la decisión de casarme, simplemente me aventé, tenía miedo pero aún así quería hacerlo, mi esposa sí estaba completamente decidida. La vida cambia bastante con los hijos. En ese tiempo todavía tenía la esperanza de lograr vivir de la música a mi manera. Mis esfuerzos estaban concentrados en el proyecto de solista, en mi familia y en el trabajo de GNP.
+            </p>
+        </div>
+        <div class="vida-pandemia">
+            <h3>Vida en pandemia</h3>
+            <p>
+                Cuando sucedió la cuarentena en México en marzo del 2020 en GNP tuvimos la fortuna de poder laborar sin problemas desde casa. A todos nos sorprendió lo bien que pudimos adaptarnos a esta modalidad de trabajo. Una vez probado el Home Office, a mí y a mis compañeros del área no nos dan ya ganas de regresar a la oficina. Con la pandemia abandoné todo intento por salir a tocar.En 2020 subí mis primeras canciones a las plataformas digitales.
+            </p>
+            <p>
+                Finalmente en 2021 comencé a hacer transmisiones en vivo hasta el junio. En julio nace mi hija. A estas alturas ya no espero vivir de la música y ya sólo es un proyecto de realización personal, un proyecto en el cual comparto mi música, mis ideas y mis pensamientos con la esperanza de que alguien pueda conectar con ellos. 
+            </p>
+            <p>
+                Me interesé en tomar cursos de programación y me gustó bastante, gracias a esos cursos es que pude aprender a hacer esta página web y también me animé a cursar la licenciatura en programación y transformación digital en la EBC, la cual comenzaré en enero del 2022. Mi objetivo es desarrollarme profesionalmente en ésta área, ya que a estas alturas el trabajo en GNP ya me parece aburrido, estoy estancado por no tener una carrera terminada. Espero poder conseguir trabajo de programador en este año, con suerte ni siquiera será necesario cambiarme de empresa, ya que GNP tiene un área correspondiente a mi carrera.
+            </p>
+            <p>
+                Y hasta aquí termina esta autobiografía. La idea es ir agregando más párrafos con el tiempo. Por ahora, estando a 4 de enero del 2022, es todo lo que puedo compartir de momento. Ha faltado mencionar a muchas personas importantes como mis amigos, mis demás familiares, mis aventuras, romances, cómo hice mis primeras grabaciones y hechos diversos. Sin embargo si contara todo, esta página sería inmensa y no cuento con el tiempo ni las ganas de escribirlo todo. Probablemente contaré más detalles en la sección de <a href="/publicaciones/pensamientos_dispersos">pensamientos dispersos</a>. Por ahora contado lo que creo que fue más relevante en mi desarrollo como persona.
+            </p>
+        </div>
+        
+    </div>
+
+    <p class="alinear-derecha">
+        <a href="/publicaciones">Volver</a>
+    </p>
+</main>

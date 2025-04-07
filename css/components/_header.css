@@ -1,0 +1,100 @@
+header {
+    display: grid;
+    background-color: #17222e;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+  }
+  header div {
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+  }
+  header div img {
+    max-width: 200px;
+    padding: 5px 0 2px 10px;
+  }
+  @media (min-width: 768px) {
+    header {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+  header nav {
+    grid-column: 3/1;
+  }
+  header nav ul {
+    display: flex;
+    flex-direction: column;
+  }
+  header nav a,
+  header nav a:hover {
+    color: #999;
+  }
+  header nav a {
+    font-family: Teko, sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 2rem;
+    padding: 15px 15px 8px;
+    display: block;
+    border-radius: 2px;
+    text-align: center;
+  }
+  header nav a:hover {
+    background-color: #2a78cb;
+  }
+  @media (min-width: 768px) {
+    header nav {
+      padding: 0 25px 0 0;
+    }
+    header nav ul {
+      display: flex;
+      flex-direction: row;
+      margin: 8px 0 0;
+    }
+    header nav a {
+      text-align: left;
+    }
+  }
+  header span {
+    background-color: transparent;
+    border: none;
+    margin: auto 8px;
+    padding: 0;
+  }
+  header span img {
+    width: 60px;
+    margin: 0;
+    padding: 15px;
+  }
+  header span img:hover {
+    cursor: pointer;
+  }
+  @media (max-width: 768px) {
+    .menu-desplegable {
+      background-color: #17222e;
+      position: fixed;
+      width: 100%;
+      top: 75px;
+      right: -100vw;
+      transition: all 0.4s ease-in-out;
+    }
+    nav.mostrar-menu {
+      right: 0;
+    }
+  }
+  .under-header {
+    background-color: #fff;
+    height: 75px;
+  }
+  .tab-selected {
+    background-color: #266cb6;
+  }
+  /* Estilo para el enlace de navegación activo */
+  #main-navigation a.active {
+    color: #eee;
+    background-color: #266cb6;
+  }
+  

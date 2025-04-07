@@ -1,0 +1,140 @@
+.seccion-covers {
+    margin-bottom: 30px;
+  }
+  .seccion-covers a {
+    text-align: center;
+    display: block;
+    max-width: 400px;
+    margin: 0 auto 30px;
+  }
+  .seccion-albumes p,
+  .seccion-covers p {
+    text-align: center;
+  }
+  .albumes .lista-albumes {
+    border: 1px solid hsla(0, 0%, 78.4%, 0.5);
+    border-radius: 5px;
+    margin: 0 0 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .albumes .lista-albumes:last-child {
+    margin: 0;
+  }
+  .albumes .lista-albumes:hover {
+    transform: scale(1.1);
+    background-color: #03070a;
+    box-shadow: 2px 2px 20px hsla(0, 0%, 92.9%, 0.474);
+  }
+  .albumes a,
+  .albumes div {
+    display: flex;
+  }
+  .albumes a {
+    color: #999;
+    align-items: center;
+    font-size: 2rem;
+    padding: 10px;
+    width: 75%;
+  }
+  .albumes a figcaption {
+    display: flex;
+    flex-direction: column;
+  }
+  .albumes a small {
+    font-size: 1.2rem;
+  }
+  .albumes .portada {
+    max-width: 90px;
+    margin: 0 15px 0 0;
+  }
+  .albumes .icono-escucha img {
+    width: 100%;
+    filter: grayscale(100%);
+  }
+  .albumes .icono-escucha img:hover {
+    transform: scale(1.1);
+    filter: grayscale(0);
+  }
+  @media (min-width: 768px) {
+    .albumes .icono-escucha {
+      align-items: center;
+    }
+  }
+  .enlaces-escuchar {
+    display: flex;
+    justify-content: center;
+  }
+  .enlaces-escuchar img {
+    max-width: 30px;
+    margin: 20px;
+    filter: grayscale(100%);
+  }
+  .enlaces-escuchar img:hover {
+    transform: scale(1.1);
+    filter: grayscale(0);
+  }
+  .enlaces-escuchar-cajas {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .enlaces-escuchar-cajas img {
+    max-width: 40px;
+    filter: grayscale(100%);
+  }
+  .enlaces-escuchar-cajas img:hover {
+    transform: scale(1.1);
+    filter: grayscale(0);
+  }
+  @media (min-width: 768px) {
+    .enlaces-escuchar-cajas {
+      flex-direction: row;
+    }
+    .enlaces-escuchar-cajas img.youtube {
+      margin: 20px;
+    }
+  }
+  .columnas-albumes {
+    padding-left: 0;
+  }
+  .columnas-albumes figcaption {
+    line-height: 1.4;
+  }
+  @media (min-width: 768px) {
+    .albumes .lista-albumes:nth-child(odd) {
+      margin-right: 10px;
+    }
+    .columnas-albumes {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  .portada {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  .canciones ol {
+    counter-reset: item;
+    padding-left: 10vw;
+  }
+  .canciones ol li {
+    display: block;
+  }
+  .canciones ol li:before {
+    content: counter(item) ". ";
+    counter-increment: item;
+    color: #999;
+  }
+  .album-info h3 {
+    margin-top: 0;
+  }
+  .cancion .portada {
+    max-width: 150px;
+  }
+  .muestras-audio {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  

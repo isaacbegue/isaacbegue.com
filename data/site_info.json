@@ -1,0 +1,133 @@
+[
+  {
+    "id": "node-social-links-container",
+    "title": "Enlaces Sociales",
+    "data": {
+      "description": "Contiene la lista de enlaces a redes sociales del footer"
+    },
+    "children": [
+      {
+        "id": "node-social-youtube",
+        "title": "YouTube",
+        "data": {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/channel/UCv2g8KHAHQJTMRaCuut3r3Q",
+          "icon": "assets/img/logos/youtube_brands.svg"
+        },
+        "children": []
+      },
+      {
+        "id": "node-social-facebook",
+        "title": "Facebook",
+        "data": {
+          "name": "Facebook",
+          "url": "https://www.facebook.com/IsaacBegueMusic/",
+          "icon": "assets/img/logos/facebook_brands.svg"
+        },
+        "children": []
+      },
+      {
+        "id": "node-social-soundcloud",
+        "title": "SoundCloud",
+        "data": {
+          "name": "SoundCloud",
+          "url": "https://soundcloud.com/isaacbegue",
+          "icon": "assets/img/logos/soundcloud_brands.svg"
+        },
+        "children": []
+      },
+      {
+        "id": "node-social-spotify",
+        "title": "Spotify",
+        "data": {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/2gTkLP3FFdcE2xM8NCnTPz",
+          "icon": "assets/img/logos/spotify_brands.svg"
+        },
+        "children": []
+      },
+      {
+        "id": "node-social-instagram",
+        "title": "Instagram",
+        "data": {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/isaacbegue/",
+          "icon": "assets/img/logos/instagram_brands.svg"
+        },
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "node-download-links-container",
+    "title": "Enlaces de Descarga",
+    "data": {
+      "description": "Contiene la lista de álbumes/EPs para descargar"
+    },
+    "children": [
+      {
+        "id": "node-dl-demos-2020",
+        "title": "Demos 2020 (EP 2020)",
+        "data": {
+          "id_original": "demos_2020",
+          "title_original": "Demos 2020 (EP 2020)",
+          "description": "EP de Demos lanzado en 2020.",
+          "file_url": "https://drive.google.com/file/d/1-xSo-YWYx6Cv8orkHFOSf1a1l_G-7Kib/view?usp=drive_link"
+        },
+        "children": []
+      },
+      {
+        "id": "node-dl-album-4",
+        "title": "4 (EP 2020)",
+        "data": {
+          "id_original": "album_4_2020",
+          "title_original": "4 (EP 2020)",
+          "description": "EP lanzado en 2020.",
+          "file_url": "https://drive.google.com/file/d/1DIVA2-J-cEP_YaNJRRSrbNHN-Web9D-z/view?usp=drive_link"
+        },
+        "children": []
+      },
+      {
+        "id": "node-dl-covers",
+        "title": "Covers (Colección 2020 - 2021)",
+        "data": {
+          "id_original": "covers_2020-2021",
+          "title_original": "Covers (Colección 2020 - 2021)",
+          "description": "Colección de covers grabados.",
+          "file_url": "https://drive.google.com/file/d/1s1Zt7boMHFdvMKYVsdEKtDNGC9-FZYX9/view?usp=drive_link"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743995593012-eg9q1",
+        "title": "EP#3 (2024)",
+        "data": {
+          "title_original": "EP#3 (2024)",
+          "id_original": "ep3_2022",
+          "file_url": "https://drive.google.com/file/d/1HAgPPmusPjdpKf1GQEmGYOINtfVy2H-t/view?usp=drive_link"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743995654338-9y8ca",
+        "title": "Isaac Begué (2024)",
+        "data": {
+          "id_original": "isaac_begue-album-2024",
+          "title_original": "Isaac Begué (2024)",
+          "file_url": "https://drive.google.com/file/d/1w2is0tmjVxYvfaBFmP5xrmX8DDhJcqe7/view?usp=drive_link"
+        },
+        "children": []
+      },
+      {
+        "id": "node-1743995718786-qw29r",
+        "title": "Pulsos y siluetas (2024)",
+        "data": {
+          "id_original": "pulsos_y_siluetas-2024",
+          "title_original": "Pulsos y siluetas (2024)",
+          "file_url": "https://drive.google.com/file/d/1IgDRIvz4tbG3tz6X_UzKByxGhVReTLtQ/view?usp=drive_link"
+        },
+        "children": []
+      }
+    ]
+  }
+]

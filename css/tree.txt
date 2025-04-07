@@ -1,0 +1,18 @@
+.
+├── index.html      (or your main HTML file)
+└── css/
+    ├── base/
+    │   ├── _base.css        # Base styles (html, body, typography, links, scrollbar)
+    │   └── _utilities.css   # Helper classes (.contenedor, .centrado, .ocultar-*)
+    ├── components/
+    │   ├── _buttons.css     # Specific button styles (like over video)
+    │   ├── _embeds.css      # YouTube iframe containers
+    │   ├── _footer.css      # Footer specific styles
+    │   ├── _header.css      # Header, navigation, menu desplegable
+    │   ├── _media-content.css # Albums, covers, song details, audio samples
+    │   ├── _posts.css       # Post content, deployables, comments, 404
+    │   └── _tables.css      # Table styling
+    ├── layout/
+    │   ├── _layout.css      # General layout (main, height trick, grid helpers)
+    │   └── _video-section.css # Full-width video loop section layout
+    └── style.css            # Main file importing all others
