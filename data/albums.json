@@ -940,5 +940,37 @@
         "children": []
       }
     ]
+  },
+  {
+    "id": "node-1762296571067-j6i5m",
+    "title": "Chico (Single)",
+    "data": {
+      "original_id": "chico",
+      "original_title": "Chico",
+      "year": 2025,
+      "cover": "assets/img/portadas/chico.png",
+      "description": "Este single lo grabé con herramientas de IA, particularmente Udio. Pedí a Udio una muestra de una canción de Rock Alternativo que hablase de las barras estructurales de nuestra sociedad para las personas más vulnerables, me dio 32 segundos de muestra y me gustó una de las dos muestras que me dió. En esa muestra venía una letra en la que se usaba mucho \"Chico\", me gustó la idea. Decidí seguir construyendo la canción. Ahora un intro, ahora el coro, ahora el verso 2, ahora un puente, etc. Así seguí en un ir y venir hasta que la forma de la canción me satisfizo. Finalmente descargué la canción con su \"separación automática de tracks\" y obtuve el track de la batería, del bajo, los teclados y la voz. La voz la deseché porque yo grabé mi voz sobre esa base y canté la letra que yo quería ya específica. Finalmente ya sólo le grabé la guitarra eléctrica. Fue muy divertido. Es como grabar con una banda, cada quien graba su parte y al final también actúo como director.",
+      "spotify_url": "https://open.spotify.com/intl-es/track/4yFLEIacPqRaPSRZXO8XE6?si=cf84d58336154209",
+      "youtubemusic_url": "https://music.youtube.com/watch?v=_rqeQ7eOG-Y&si=7AVcvyJSwfZsuS_E",
+      "youtube_playlist_url": "",
+      "details_hash": "#musica/chico"
+    },
+    "children": [
+      {
+        "id": "node-1762297007987-ud6nz",
+        "title": "Chico",
+        "data": {
+          "original_id": "chico",
+          "original_title": "Chico",
+          "lyrics": "Vives tu vida, chico,\nsin opciones demócratas.\nPor todos lados, chico,\ndicen que calles, chico.\nY tú, chico, sueña escaleras, chico.\nQue no te quejes y trabajes. Y tú chico\ncon ilusiones, chico, que ellos repiten, chico,\ny tú sólo sigues, chico, aunque veas que en realidad\nsólo muy pocos subirán.\n\nClase baja aunque trabajas todo el día, chico,\nclase media, chico, nomás no llegas, chico.\nClase baja, chico, tu salud parece un lujo,\nla meritocracia es un mito, \nmira las cifras, chico.\n\nTe dicen, chico, \nque este el precio que hay que pagar\nporque eres pobre, chico,\nporque tú quieres, chico,\ny tú, chico, no te esfuerzas, chico.\nY seguro eres un flojo. Y tú chico\nque te levantas, chico, aun más temprano, chico\nque los más ricos, chico, de toda esta ciudad,\ne incluso así no bastará.\n\nClase baja aunque trabajas todo el día, chico,\nclase media, chico, nomás no llegas, chico.\nClase baja, chico, tu salud parece un lujo,\nla meritocracia es un mito, \nmira las cifras, chico.\n\nDifícil es sentirse, chico, parte de una sociedad\ndonde eres tú, chico, el explotado, chico\ncon un futuro truncado, chico\nY qué fácil es\nel sesgo del sobreviviente.\n\n\nClase baja aunque trabajas todo el día, chico,\nclase media, chico, nomás no llegas, chico.\nClase baja, chico, tu salud parece un lujo,\nla meritocracia es un mito, \nmira las cifras, chico.",
+          "commentary": "",
+          "spotify_url": "https://open.spotify.com/intl-es/track/4yFLEIacPqRaPSRZXO8XE6?si=cf84d58336154209",
+          "youtubemusic_url": "https://music.youtube.com/watch?v=_rqeQ7eOG-Y&si=7AVcvyJSwfZsuS_E",
+          "youtube_url": "",
+          "details_hash": "#musica/chico/chico"
+        },
+        "children": []
+      }
+    ]
   }
 ]
